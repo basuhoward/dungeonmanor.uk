@@ -1,0 +1,35 @@
+<footer class="footer footer-white mt-5 pt-4">
+  <div class="container">
+    <div class="row row-grid align-items-center">
+      <div class="col-lg-1 align-items-right">
+        <a href="https://basuhoward.org">
+          <img src="{{ '/assets/img/identity/bh-flag-1x1.svg' | relative_url }}" width="100%" />
+        </a>
+      </div>
+      <div class="col-lg-5">
+        <p class="mb-0 font-weight-light">dungeonmanor.uk</p>
+        <p class="mb-0 font-weight-light">
+          A website of the <a href="https://basuhoward.org">House of Basu-Howard</a>
+        </p>
+      </div>
+      <div class="col-lg-6 text-lg-right">
+        <nav class="footer-nav text-right">
+          <ul>
+            {% for item in site.data.settings.footer_menu_settings.menu_items %}
+            {% if item.submenu_items %}
+
+            {% else %}
+            <li class="nav-item">
+              <a href="{{ item.url | relative_url }}" class="nav-link">
+                <span class="nav-link-inner--text">{{ item.title }}</span>
+              </a>
+            </li>
+            {% endif %}
+            {% endfor %}
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </div>
+</div>
+</footer>

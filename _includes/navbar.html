@@ -1,0 +1,29 @@
+<nav class="navbar navbar-expand-lg fixed-top navbar-transparent " color-on-scroll="100">
+  <div class="container">
+    <div class="navbar-translate">
+      <a class="navbar-brand" href="{{ site.url | relative_url }}" data-placement="bottom" target="_blank">
+        {% include img/secondary-logo.svg %}
+      </a>
+      <button class="navbar-toggler navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-bar bar1"></span>
+        <span class="navbar-toggler-bar bar2"></span>
+        <span class="navbar-toggler-bar bar3"></span>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse justify-content-end" id="navigation">
+      <ul class="navbar-nav">
+        {% for item in site.data.settings.main_menu_settings.menu_items %}
+        {% if item.submenu_items %}
+
+        {% else %}
+        <li class="nav-item">
+          <a href="{{ item.url | relative_url }}" class="nav-link">
+            <span class="nav-link-inner--text">{{ item.title }}</span>
+          </a>
+        </li>
+        {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</nav>

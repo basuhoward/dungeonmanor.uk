@@ -1,0 +1,27 @@
+favicon: /assets/img/identity/favicon.svg
+primaryLogo: /assets/img/identity/primary-logo-light.svg
+
+main_menu_settings:
+  menu_items:
+    - title: About
+      url: /about
+    - title: History
+      url: /history
+    - title: Archives
+      url: /archives
+    - title: FAQ
+      url: /faq
+    - title: Award
+      url: /award
+
+footer_menu_settings:
+  menu_items:
+    - title: Privacy Policy
+      url: /privacy-policy
+    - title: Terms of Use
+      url: /terms-of-use
+    - title: Copyright
+      url: /copyright
+
+footer_settings:
+  footer_tagline: A website of the House of Basu-Howard
