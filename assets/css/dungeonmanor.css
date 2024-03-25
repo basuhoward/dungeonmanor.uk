@@ -65,6 +65,10 @@ a {
     fill: #f8f8f8;
 }
 
+.footer-nav {
+    line-height: 2em;
+}
+
 .page-header.page-header-xs.page-header-none {
     min-height: 10vh !important;
 }
