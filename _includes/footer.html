@@ -1,6 +1,6 @@
-<footer class="footer footer-white mt-5 pt-4">
+<footer class="footer footer-white my-5">
   <div class="container">
-    <div class="row row-grid align-items-center">
+    <div class="row row-grid align-items-center ">
       <div class="col-lg-1 align-items-right">
         <a href="https://basuhoward.org">
           <img src="{{ '/assets/img/identity/bh-flag-1x1.svg' | relative_url }}" width="100%" />
@@ -19,8 +19,8 @@
             {% if item.submenu_items %}
 
             {% else %}
-            <li class="nav-item">
-              <a href="{{ item.url | relative_url }}" class="nav-link">
+            <li class="nav-item my-0 py-0 mr-0 pr-0">
+              <a href="{{ item.url | relative_url }}" class="nav-link my-0 py-0 pr-0">
                 <span class="nav-link-inner--text">{{ item.title }}</span>
               </a>
             </li>
@@ -28,8 +28,10 @@
             {% endfor %}
           </ul>
         </nav>
+        <h6 class="mr-0">
+          Copyright &copy; 2023-{{ 'now' | date: "%Y" }} the House of Basu-Howard
+        </h6>
       </div>
     </div>
   </div>
-</div>
 </footer>
