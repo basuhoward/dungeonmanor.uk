@@ -5,7 +5,7 @@ description: Allow us to answer your questions about the Manor
 featured_image: /assets/img/identity/faq-banner.jpg
 ---
 
-# About Dane John Hill
+## About Dane John Hill
 
 ### What is the Dane John Hill?
 
@@ -47,7 +47,7 @@ The layout of the Dane John Gardens is designed to offer both aesthetic beauty a
 
 For inquiries about the park, please visit the Kent County Council's [Explore Kent website](https://explorekent.org/activities/dane-john-gardens/).
 
-# About the Manor of Dungeon
+## About the Manor of Dungeon
 
 ### What is the Manor of Dungeon?
 
@@ -81,7 +81,7 @@ The Manor of Dungeon itself might not be accessible to the public as a distinct 
 
 For those interested in delving deeper into the history of the Manor of Dungeon, Canterbury's local history archives, historical societies, and museums are excellent resources. They offer access to documents, maps, and expert knowledge about Canterbury's past, including detailed information about its many historic estates.
 
-# About the Lord of Dungeon
+## About the Lord of Dungeon
 
 ### Who currently holds the title of Lord of the Manor of Dungeon?
 
@@ -115,7 +115,7 @@ It's important to understand that coats of arms are granted to individuals, not 
 
 For correspondence with James Howard, kindly proceed to [our contact us page](https://basuhoward.org/contact).
 
-# Miscellaneous
+## Miscellaneous
 
 ### What inspired the creation of this website?
 

@@ -46,6 +46,24 @@ ol ul{margin-bottom:1rem !important;}
 p {
     color: #202020;
     font-family: 'Karla', "Helvetica", Arial, sans-serif;
+    padding-bottom: 1rem;
+    font-size: 150%;
+}
+
+.footer p {
+    font-size: 100%;
+    padding-bottom: 0rem;
+}
+
+h2 {
+    margin-top: 1rem;
+    padding-bottom: 1rem;
+    color: #303030;
+}
+
+h3 {
+    color: #303030;
+    font-weight: bold;
 }
 
 ul {
@@ -55,6 +73,7 @@ ul {
 
 a {
     font-weight: bold;
+    color: #202020;
 }
 
 .navbar {
