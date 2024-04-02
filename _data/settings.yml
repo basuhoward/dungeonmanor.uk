@@ -9,6 +9,8 @@ main_menu_settings:
       url: /history
     - title: Archives
       url: /archives
+    - title: Gardens
+      url: /gardens
     - title: FAQ
       url: /faq
     - title: Award
