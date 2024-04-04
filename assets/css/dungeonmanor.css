@@ -73,6 +73,10 @@ a {
     color: #202020;
 }
 
+.text-black a.btn-link {
+    text-decoration: none;
+}
+
 .navbar {
     fill: #66615B;
 }
