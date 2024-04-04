@@ -2,7 +2,7 @@
 layout: page
 title: Manorial History
 subtitle: The history of Manor of Dungeon in Kent
-featured_image: /assets/img/identity/history-banner.jpg
+featured_image: /assets/img/history-banner.jpg
 ---
 
 Perched in the historic core of Canterbury, the Dane John Hill

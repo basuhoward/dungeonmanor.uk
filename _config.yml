@@ -29,12 +29,26 @@ url: "https://dungeonmanor.uk" # the base hostname & protocol for your site, e.g
 twitter_username:
 github_username: basuhoward
 
+collections:
+  archives:
+    output: true
+    permalink: /archives/:slug
+    type: "archives"
+
 defaults:
   -
     scope:
       path: ""
     values:
       layout: "default"
+  -
+    scope:
+      path: ""
+      type: "archives"
+    values:
+      layout: "archive-item"
+      featured_image: /assets/img/archives-banner.jpg
+      archives: true
 
 sass:
   sass_dir: assets/styles

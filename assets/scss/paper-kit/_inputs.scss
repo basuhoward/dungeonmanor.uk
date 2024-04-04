@@ -155,9 +155,14 @@
 }
 
 .input-group {
-  &.no-border{
+  &.no-border {
     .input-group-text {
       border: 0;
+    }
+  }
+  .form-control:disabled + .input-group-append {
+    .input-group-text {
+      background-color: #e9ecef !important;
     }
   }
 }
