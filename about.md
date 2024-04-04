@@ -2,7 +2,7 @@
 layout: page
 title: About the Manor
 subtitle: What is the Manor of Dungeon?
-featured_image: /assets/img/identity/about-banner.jpg
+featured_image: /assets/img/about-banner.jpg
 ---
 
 Welcome to the Manor of Dungeon, a nexus of history nestled within

@@ -2,6 +2,7 @@
 title: Copyright
 description: The copyright for the Manor of Dungeon website
 layout: page
+featured_image: /assets/img/copyright-banner.jpg
 ---
 
 Copyright &copy; 2024-{{ 'now' | date: "%Y" }} the House of 

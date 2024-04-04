@@ -1,4 +1,3 @@
-
 <!--
     =========================================================
     Paper Kit 2 - v2.2.0
@@ -13,27 +12,13 @@
     =========================================================
 
     The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. -->
-
 <!DOCTYPE html>
 
 <html lang="en">
   {% include head.html %}
   <body class="landing-page sidebar-collapse">
     {% include navbar.html %}
-
-    <div class="page-header page-header-xs page-header-none" data-parallax="true">
-      <div class="filter"></div>
-    </div>
-
-    <div class="section profile-content">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12 ml-auto mr-auto text-black">
-            {{ content }}
-          </div>
-        </div>
-      </div>
-    </div>
+    {{ content }}
     {% include footer.html %}
   </body>
   {% include corejs.html %}

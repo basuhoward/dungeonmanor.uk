@@ -2,6 +2,7 @@
 title: Privacy Policy
 description: The privacy policy for the  website
 layout: page
+featured_image: /assets/img/privacy-policy-banner.jpg
 ---
 
 Welcome to the Manor of Dungeon in Kent ("we," "us," "our"). We are

@@ -1,0 +1,21 @@
+{% if page.featured_image != nil %}
+<div class="page-header page-header-xs" data-parallax="true" style="background-image: url('{{ page.featured_image | relative_url }}');">
+  <div class="filter"></div>
+    <div class="content-center">
+    <div class="container">
+      <h1>{{ page.title }}</h1>
+      <h3 class="text-white">{{ page.subtitle }}</h3>
+    </div>
+  </div>
+</div>
+{% else %}
+<div class="page-header page-header-xs page-header-none" data-parallax="true">
+  <div class="filter"></div>
+  <div class="content-center">
+    <div class="container">
+      <h1>Hello, <br /> We are Creative Tim.</h1>
+      <h3>Let us tell you more about what we do.</h3>
+    </div>
+  </div>
+</div>
+{% endif %}
