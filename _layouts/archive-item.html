@@ -27,7 +27,9 @@ layout: page
     <p>{{ content }}</p>
     <div class="row">
       <div class="col-md-7 offset-md-5 col-sm-8">
-        <button class="btn btn-danger btn-block btn-round">Download &nbsp;<i class="fa fa-chevron-down"></i></button>
+        <a href="{{ page.file_path | relative_url }}" class="btn-link">
+          <button class="btn btn-danger btn-block btn-round">Download &nbsp;<i class="fa fa-chevron-down"></i></button>
+        </a>
       </div>
     </div>
   </div>

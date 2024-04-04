@@ -294,12 +294,12 @@ featured_image: /assets/img/archives-banner.jpg
           </div>
         </div> <!-- end card -->
       </div>
-      <div class="col-md-9">
+      <div class="col-md-12">
         <div class="products">
           <div class="row">
             {% assign archives = site.archives %}
             {% for item in archives %}
-            <div class="col-md-6 col-sm-6">
+            <div class="col-md-4 col-sm-4">
               <div class="card card-product card-plain">
                 <div class="card-image text-center">
                   <a href="{{ item.url | relative_url }}">
