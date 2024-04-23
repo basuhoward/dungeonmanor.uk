@@ -24,6 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Dungeon Manor, nestled in the historic heart of Kent,
   England, stands as a testament to the rich tapestry of
   British feudal history and cultural heritage.
+port: 4003
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dungeonmanor.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
