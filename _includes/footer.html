@@ -1,26 +1,30 @@
 <footer class="footer footer-white my-5">
   <div class="container">
-    <div class="row row-grid align-items-center ">
-      <div class="col-lg-1 align-items-right">
-        <a href="https://basuhoward.org">
-          <img src="{{ '/assets/img/identity/bh-flag-1x1.svg' | relative_url }}" width="100%" />
-        </a>
+    <div class="row row-grid align-items-center">
+      <div class="col-lg-6 col-md-6 col-xs-12 col-12 mb-2">
+        <div class="row text-lg-left text-lg-left text-md-center text-xs-center">
+          <div class="col-lg-2 col-md-2 col-xs-2 col-2">
+            <a href="https://basuhoward.org">
+              <img src="{{ '/assets/img/identity/bh-flag-1x1.svg' | relative_url }}" width="80%" />
+            </a>
+          </div>
+          <div class="col-lg-10 col-md-10 col-xs-10 col-10 pl-0 my-auto">
+            <p class="mb-0 font-weight-light">dungeonmanor.uk</p>
+            <p class="mb-0 font-weight-light">
+              A website of the <a href="https://basuhoward.org">House of Basu-Howard</a>
+            </p>
+          </div>
+        </div>
       </div>
-      <div class="col-lg-5">
-        <p class="mb-0 font-weight-light">dungeonmanor.uk</p>
-        <p class="mb-0 font-weight-light">
-          A website of the <a href="https://basuhoward.org">House of Basu-Howard</a>
-        </p>
-      </div>
-      <div class="col-lg-6 text-lg-right">
-        <nav class="footer-nav text-right">
-          <ul>
+      <div class="col-lg-6 col-md-6 col-xs-12 col-12 text-lg-right text-lg-right text-md-center text-xs-center text-center">
+        <nav class="footer-nav text-lg-right text-lg-right text-md-center text-xs-center text-center">
+          <ul class="text-lg-right text-lg-right text-md-center text-xs-center text-center">
             {% for item in site.data.settings.footer_menu_settings.menu_items %}
             {% if item.submenu_items %}
 
             {% else %}
-            <li class="nav-item my-0 py-0 mr-0 pr-0">
-              <a href="{{ item.url | relative_url }}" class="nav-link my-0 py-0 pr-0">
+            <li class="nav-item my-0 py-0 mr-0 px-0">
+              <a href="{{ item.url | relative_url }}" class="nav-link my-0 py-0 px-0">
                 <span class="nav-link-inner--text">{{ item.title }}</span>
               </a>
             </li>
@@ -28,9 +32,7 @@
             {% endfor %}
           </ul>
         </nav>
-        <h6 class="mr-0">
-          Copyright &copy; 2023-{{ 'now' | date: "%Y" }} the House of Basu-Howard
-        </h6>
+        <h6>Copyright &copy; 2023-{{ 'now' | date: "%Y" }} the House of Basu-Howard</h6>
       </div>
     </div>
     {% include cookiewarning.html %}
