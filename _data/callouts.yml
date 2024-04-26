@@ -18,8 +18,8 @@ items:
   - title: Dane John Gardens
     subtitle: Learn about the modern Dane John Gardens
     icon: fa-leaf
-    call_to_action_link: /park/
-    call_to_action_name: The Park
+    call_to_action_link: /gardens
+    call_to_action_name: The Gardens
   - title: FAQ
     subtitle: Frequently asked questions
     icon: fa-circle-question
