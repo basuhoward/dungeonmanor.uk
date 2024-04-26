@@ -22,8 +22,6 @@ footer_menu_settings:
       url: /privacy-policy
     - title: Terms of Use
       url: /terms-of-use
-    - title: Copyright
-      url: /copyright
 
 footer_settings:
   footer_tagline: A website of the House of Basu-Howard
