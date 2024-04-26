@@ -113,7 +113,7 @@ It's important to understand that coats of arms are granted to individuals, not 
 
 ### How can I reach James Howard, Lord of Dungeon?
 
-For correspondence with James Howard, kindly proceed to [our contact us page](https://basuhoward.org/contact).
+For correspondence with James Howard, kindly proceed to [my contact page](https://jameshoward.us/contact-me/).
 
 ## Miscellaneous
 
