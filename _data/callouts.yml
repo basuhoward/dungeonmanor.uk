@@ -3,17 +3,17 @@ items:
   - title: About the Manor
     subtitle: Find out more about the Lord of the Dungeon
     icon: fa-user
-    call_to_action_link: /about/
+    call_to_action_link: /about
     call_to_action_name: About
   - title: Manorial History
     subtitle: Learn the history of the Manor and its role in Canterbury
     icon: fa-monument
-    call_to_action_link: /history/
+    call_to_action_link: /history
     call_to_action_name: History
   - title: Archives
     subtitle: Browse the Manor's documentation collected here
     icon: fa-box-archive
-    call_to_action_link: /archives/
+    call_to_action_link: /archives
     call_to_action_name: Archives
   - title: Dane John Gardens
     subtitle: Learn about the modern Dane John Gardens
@@ -23,10 +23,10 @@ items:
   - title: FAQ
     subtitle: Frequently asked questions
     icon: fa-circle-question
-    call_to_action_link: /faq/
+    call_to_action_link: /faq
     call_to_action_name: FAQ
   - title: Lord of Dungeon Award
     subtitle: Coming sooon...
     icon: fa-award
-    call_to_action_link: /award/
+    call_to_action_link: /award
     call_to_action_name: The Award
