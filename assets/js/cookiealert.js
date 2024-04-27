@@ -23,7 +23,6 @@
         cookieAlert.classList.add("show");
     } else {
         window['ga-disable-G-CPXYN461M3'] = false;
-        startEmailOctopus("f8604900-ec85-11ee-b446-37d7c053d593")
         startGoogleAnalytics("G-CPXYN461M3")
     }
 
@@ -34,7 +33,6 @@
         cookieAlert.classList.remove("show");
 
         startGoogleAnalytics("G-CPXYN461M3")
-        startEmailOctopus("f8604900-ec85-11ee-b446-37d7c053d593")
         // dispatch the accept event
         window.dispatchEvent(new Event("cookieAlertAccept"))
     });
