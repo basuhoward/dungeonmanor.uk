@@ -10,7 +10,7 @@
     var acceptCookies = document.querySelector(".acceptcookies");
     var rejectCookies = document.querySelector(".rejectcookies");
 
-    window['ga-disable-G-13CWX5EBQG'] = true;
+    window['ga-disable-G-CPXYN461M3'] = true;
 
     if (!cookieAlert) {
        return;
