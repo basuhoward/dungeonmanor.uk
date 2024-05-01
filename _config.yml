@@ -26,6 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   British feudal history and cultural heritage.
 port: 4003
 
+permalink: pretty
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dungeonmanor.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
