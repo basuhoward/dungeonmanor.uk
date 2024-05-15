@@ -51,7 +51,7 @@ defaults:
       type: "archives"
     values:
       layout: "archive-item"
-      featured_image: /assets/img/archives-banner.jpg
+      featured_image: /assets/img/archives-banner.webp
       archives: true
 
 sass:

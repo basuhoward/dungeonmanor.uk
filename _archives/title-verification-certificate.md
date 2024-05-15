@@ -6,7 +6,7 @@ slug: title-verification-certificate
 year: 2024
 tags: ["Legal Document", "Title Verification", "Lordship"]
 description: "This document certifies the lawful succession of James Patrick Howard II as the Lord of the Manor of The Dungeon in the Parish of St. Mary Bredin in the County of Kent. Issued on the eleventh of March 2024, during the third year of the reign of King Charles III, this certificate confirms the legal possession of the incorporeal hereditament rights and the lawful ownership of the title of Lord of the Manor of The Dungeon. Registration Number: 262120/96/108960."
-image: /assets/img/archives/title-verification-certificate.png
+image: /assets/img/archives/title-verification-certificate.webp
 file_path: /assets/archives/title-verification-certificate.pdf
 ---
 
