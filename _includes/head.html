@@ -3,18 +3,36 @@
   <link rel="icon" type="image/svg" href="{{ site.data.settings.favicon | relative_url }}">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <title>{{ page.title }}</title>
-  <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
+  <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1, shrink-to-fit=no' name='viewport' />
 
-  <link rel="canonical" href="{{ page.url }}" />
+  {% assign keywords = "" %}
+  {% if page.keywords %}
+    {% for keyword in page.keywords %}
+      {% assign keywords = keywords | append: keyword | append: ", " %}
+    {% endfor %}
+  {% else %}
+    {% for keyword in site.keywords %}
+      {% assign keywords = keywords | append: keyword | append: ", " %}
+    {% endfor %}
+  {% endif %}
+  {% assign keywords = keywords | append: site.title %}
 
-  <meta name="title" content="{{ page.title }}" />
+  {% assign desc = page.content | markdownify | strip_html | strip_newlines | truncatewords: 30 %}
+  {% if page.subtitle %}
+    {% assign desc = page.subtitle | markdownify | strip_html | strip_newlines %}
+  {% endif %}
+
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+
+  <meta name="title" content="{{ page.title }} - {{ site.title }}" />
   <meta name="author" content="James" />
-  <meta name="description" content="{{ page.subtitle }}" />
+  <meta name="description" content="{{ desc }}" />
+  <meta name="keywords" content="{{ keywords }}">
 
   <meta property="og:title" content="{{ page.title }}" />
   <meta property="og:locale" content="en_US" />
-  <meta property="og:description" content="{{ page.subtitle }}" />
-  <meta property="og:url" content="{{ page.url }}" />
+  <meta property="og:description" content="{{ desc }}" />
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
   <meta property="og:site_name" content="The Manor of Dungeon in Kent" />
   <meta property="og:image" content="{{ page.featured_image | relative_url }}" />
   <meta property="og:type" content="article" />
@@ -39,8 +57,6 @@
   <!-- CSS Files -->
   <link href="{{ 'assets/css/bootstrap.min.css' | relative_url }}" rel="stylesheet" />
   <link href="{{ 'assets/css/paper-kit.css?v=2.2.0' | relative_url }}" rel="stylesheet" />
-  <!-- CSS Just for demo purpose, don't include it in your project -->
   <link href="{{ '/assets/css/dungeonmanor.css' | relative_url }}" rel="stylesheet" />
-  <script src="https://kit.fontawesome.com/42a187197b.js" crossorigin="anonymous"></script>
   <link href="{{ '/assets/css/cookiewarning.css' | relative_url }}" rel="stylesheet" />
 </head>
