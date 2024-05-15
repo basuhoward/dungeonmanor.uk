@@ -6,7 +6,7 @@ slug: deed-of-creation-of-a-possessory-title
 year: 2024
 tags: ["Legal Document", "Deed of Creation", "Lordship", "Incorporeal Rights"]
 description: "This document outlines the legal foundations and principles underlying the possession and transfer of incorporeal hereditament titles, particularly focusing on the Lord of the Manor of The Dungeon. It highlights the distinction between de facto and legal possession, emphasizing the legal right to quiet and peaceful enjoyment of incorporeal chattels associated with the title. On 11th March 2024, Manorial Title Register Limited assigned the rights to the incorporeal hereditament title of Lord of the Manor of The Dungeon to James Patrick Howard II for £175, confirming the lawful transfer of rights under English law and the protections afforded by the Law of Property Act 1925."
-image: /assets/img/archives/deed-of-creation-of-a-possessory-title.png
+image: /assets/img/archives/deed-of-creation-of-a-possessory-title.webp
 file_path: /assets/archives/deed-of-creation-of-a-possessory-title.pdf
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Dane John Gardens
 subtitle: Journey Through Time in Canterbury’s Historic Oasis
-featured_image: /assets/img/gardens-banner.jpg
+featured_image: /assets/img/gardens-banner.webp
 ---
 
 Nestled within the ancient city walls of Canterbury, Dane John

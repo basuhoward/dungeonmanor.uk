@@ -2,7 +2,7 @@
 layout: page
 title: Archival Material
 subtitle: Documents Relating to the Manor
-featured_image: /assets/img/archives-banner.jpg
+featured_image: /assets/img/archives-banner.webp
 ---
 
 This collection represents the beginning of our journey to compile

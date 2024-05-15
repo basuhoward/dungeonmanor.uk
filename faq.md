@@ -2,7 +2,7 @@
 layout: page
 title: Frequently Asked Questions
 description: Allow us to answer your questions about the Manor
-featured_image: /assets/img/faq-banner.jpg
+featured_image: /assets/img/faq-banner.webp
 ---
 
 ## About Dane John Hill

@@ -6,7 +6,7 @@ slug: conveyance-deed-possessory
 year: 2024
 tags: ["Legal Document", "Conveyance Deed", "Lordship", "Possessory Title"]
 description: "This Conveyance Deed, dated the eleventh of March 2024, records the transfer of the Possessory Title of Lord of the Manor of The Dungeon from Manorial Title Register Limited to James Patrick Howard II for the sum of £175. The deed acknowledges the legal right to use the feudal title of Lord of the Manor of The Dungeon in the parish of St. Mary Bredin, County of Kent, under the Law of Property Act 1925 and Halsbury's Laws of England, conferring the rights of Jus in re propria and Jura in re aliena, emphasizing the right of enjoyment and ownership without encumbrances."
-image: /assets/img/archives/conveyance-deed-possessory.png
+image: /assets/img/archives/conveyance-deed-possessory.webp
 file_path: /assets/archives/conveyance-deed-possessory.pdf
 ---
 
