@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sir James Hales, Lord of Dungeon
+title: Sir James Hales of the Dungeon
 subtitle: History of the Lords
 featured_image: /assets/img/history-banner.webp
 ---

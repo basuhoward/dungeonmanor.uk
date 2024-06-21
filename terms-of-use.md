@@ -1,11 +1,11 @@
 ---
 title: Terms of Use
-description: The terms of use for the Manor of Dungeon in Kent website
+description: The terms of use for the Manor of the Dungeon in Kent website
 layout: page
 featured_image: /assets/img/terms-of-use-banner.webp
 ---
 
-Welcome to Manor of Dungeon in Kent ("we," "us," "our"). By accessing and using our website (https://dungeonmanor.uk), you ("you," "your," "user") agree to comply with and be bound by the following terms and conditions of use. Please review these terms carefully. If you do not agree to these terms, you should not use this site.
+Welcome to the Manor of the Dungeon in Kent ("we," "us," "our"). By accessing and using our website (https://dungeonmanor.uk), you ("you," "your," "user") agree to comply with and be bound by the following terms and conditions of use. Please review these terms carefully. If you do not agree to these terms, you should not use this site.
 
 ## Use of the Site
 
