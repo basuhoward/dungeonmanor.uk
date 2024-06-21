@@ -111,3 +111,7 @@ a {
   height: 3rem;
   vertical-align: middle;
 }
+
+a.sidebar-link {
+    text-decoration: double !important;
+}
