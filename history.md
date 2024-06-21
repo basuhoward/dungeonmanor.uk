@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Manorial History
-subtitle: The history of Manor of Dungeon in Kent
+subtitle: The history of Manor of the Dungeon in Kent
 featured_image: /assets/img/history-banner.webp
 ---
 
@@ -51,7 +51,7 @@ of the word, ever existed there.
   <a href="{{ '/history/james-hales' | relative_url }}" class="sidebar-link">
     <div class="card">
       <div class="card-head text-center">{% svg "/assets/img/hales-arms.svg" width="95%" %}</div>
-      <div class="card-body text-center"><h6>Read about Sir James Hales of Dungeon, inspiration for <i>Hamlet</i>'s gravediggers</h6></div>
+      <div class="card-body text-center"><h6>Read about Sir James Hales of the Dungeon, inspiration for <i>Hamlet</i>'s gravediggers</h6></div>
     </div>
   </a>
 </div>

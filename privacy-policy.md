@@ -5,7 +5,7 @@ layout: page
 featured_image: /assets/img/privacy-policy-banner.webp
 ---
 
-Welcome to the Manor of Dungeon in Kent ("we," "us," "our"). We are
+Welcome to the Manor of the Dungeon in Kent ("we," "us," "our"). We are
 committed to protecting your privacy while you use our website
 (https://dungeonmanor.uk). This Privacy Policy outlines the types
 of information we collect from our users ("you," "your") and how
