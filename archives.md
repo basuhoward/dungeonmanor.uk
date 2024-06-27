@@ -52,7 +52,7 @@ for future generations to explore and appreciate.
                 <div class="card-body">
                   <div class="card-description">
                     <h5 class="card-title">{{ item.title }}</h5>
-                    <h6 class="card-description">{{ item.description | truncatewords: 20 }}</h6>
+                    <h6 class="card-description">{{ item.description | markdownify | remove: '<p>' | remove: '</p>' | 'truncatewords: 20 }}</h6>
                   </div>
                   <div class="price">
                     <h6 class="card-description">Year: <span class="badge badge-pill badge-default">{{ item.year }}</span></h6>
