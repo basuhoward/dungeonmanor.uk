@@ -5,12 +5,13 @@ type: file-pdf
 slug: canterbury-till-domesday
 year: 1875
 tags:
-  - Saxon Cathedral
-  - St. Augustine
-  - Archaeological History
-  - Lanfranc
-  - Benedictine Monks
-  - Gothic Architecture
+  - Domesday Book
+  - historical development
+  - Roman period
+  - Saxon conquest
+  - Durovernum
+  - Christianity
+  - medieval period
 description: 'Godfrey-Faussett, T. G. "Canterbury Till Domesday." _Archaeological Journal_ 32, no. 1 (1875): 369-393'
 image: /assets/img/archives/canterbury-till-domesday.webp
 file_path: /assets/archives/canterbury-till-domesday.pdf
