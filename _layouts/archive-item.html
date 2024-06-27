@@ -12,7 +12,7 @@ layout: page
         {% endif %}
       </div>
       <div class="card-body text-left mt-5">
-        <div class="card-description">{{ page.description }}</div>
+        <div class="card-description"><h6>{{ page.description | markdownify | remove: '<p>' | remove: '</p>' }}</h6></div>
       </div>
     </div>
   </div>
