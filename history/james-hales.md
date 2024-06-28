@@ -7,7 +7,7 @@ featured_image: /assets/img/history-banner.webp
 
 <div class="item col-12 col-sm-6 col-md-6 col-lg-3 pull-right px-4">
     <div class="card">
-      <div class="card-head text-center">{% svg "/assets/img/hales-arms.svg" width="95%" %}</div>
+      <div class="card-head text-center">{% svg "/assets/archives/arms-of-james-hales.svg" width="95%" %}</div>
       <div class="card-body text-center"><h6>Arms of Sir James</h6></div>
     </div>
 </div>

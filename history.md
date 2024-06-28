@@ -59,7 +59,7 @@ of the word, ever existed there.
 <div class="item col-12 col-sm-6 col-md-6 col-lg-3 pull-right px-4">
   <a href="{{ '/history/james-hales' | relative_url }}" class="sidebar-link">
     <div class="card">
-      <div class="card-head text-center">{% svg "/assets/img/hales-arms.svg" width="95%" %}</div>
+      <div class="card-head text-center">{% svg "/assets/archives/arms-of-james-hales.svg" width="95%" %}</div>
       <div class="card-body text-center"><h6>Read about Sir James Hales of the Dungeon, inspiration for <i>Hamlet</i>'s gravediggers</h6></div>
     </div>
   </a>
