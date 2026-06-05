@@ -9,202 +9,244 @@ featured_image: /assets/img/faq-banner.webp
 
 ### What is the Dane John Hill?
 
-The Dane John Hill is a historic mound located in Canterbury, Kent, serving as a
-prominent landmark that encapsulates centuries of British heritage. It features
-a park, gardens, and a walking path that offers panoramic views of the city.
+The Dane John Hill is a historic mound located in Canterbury, Kent, serving
+as a prominent landmark that encapsulates centuries of British heritage. It
+features a park, gardens, and a winding path that offers panoramic views of
+the city. The mound at the center of the gardens is the oldest surviving
+element of the site, predating the Roman city of Durovernum Cantiacorum that
+grew up around it.
 
 ### Why is it called the Dane John Hill?
 
-The name "Dane John" is derived from a corruption of the Norman word "Donjon,"
-referring to a castle keep or mound. Over time, this term evolved into the name
-we know today. The hill's name reflects its long history and the various
-cultural influences it has undergone.
+The name "Dane John" is a phonetic corruption of the Norman French _donjon_,
+meaning a fortified keep or mound. The word entered English as "dungeon," and
+the site was known as "the Dungeon" throughout the medieval period. Over
+time, "dungeon" was reinterpreted by local pronunciation and usage into "Dane
+John," a process that was complete by the eighteenth century.
+
+An alternative tradition, noted by antiquaries, attributed the name to a
+seventeenth-century scholar who theorized that the mound had been erected
+by Danish invaders. This theory is not accepted by modern scholarship, but
+the Dane John name it helped to establish has proved durable.
 
 ### How old is the Dane John Hill?
 
-The exact age of the Dane John Hill is challenging to pinpoint due to the layers
-of history it represents. However, it is believed to date back to at least the
-Roman occupation of Britain, making it over a thousand years old. Subsequent
-modifications and uses have added to its rich tapestry of history.
+The Dane John mound is the oldest element of the gardens and considerably
+older than the city around it. The most current assessment from Historic
+England describes the mound as one of a group of Romano-British burial
+mounds of the first or second century AD. The Victorian antiquary
+T. G. Godfrey-Faussett, writing in 1875, argued on the basis of the mound's
+position relative to the Roman city walls and the discovery of a bronze
+celt in a companion mound that the group was of Celtic or pre-Roman British
+origin, potentially earlier still. The Normans briefly used the mound as
+a military fortification after 1066 before abandoning it when the stone
+Canterbury Castle was completed around 1123. It has been a public feature
+of the Canterbury landscape, in one form or another, for at least two
+thousand years.
 
 ### Is it referred to as the Dungeon or Dane John?
 
-Historically, it appears the correct term is Dane John, which over time
-underwent various phonetic transformations, eventually becoming known as the
-Dungeon among others. On this site, we use both terms with a specific intent:
-"Dane John" typically refers to the contemporary park area, while "the Dungeon"
-is used when discussing the historical manor grounds. This distinction helps
-clarify the context and time period being addressed.
+Historically, both names refer to the same place through different periods.
+"The Dungeon" was the name in use through the medieval period and into the
+early modern era; it is the name of the manor as a legal entity. "Dane John"
+is the phonetic successor that took hold in the eighteenth century and is
+now the official name of the park and gardens. On this site, "Dane John"
+refers to the contemporary park and public space, while "the Dungeon" is
+used when discussing the historical manor. This helps distinguish between
+the modern public amenity and its long manorial history.
 
 ### Was the Dane John Hill always a public garden?
 
-No, the Dane John Hill has undergone various transformations throughout its
-history. Initially, it may have served defensive purposes during Roman times and
-later medieval periods. It was transformed into a public garden in the late 18th
-century, reflecting changing attitudes towards leisure and public spaces.
+No. Before its transformation into a pleasure garden by Alderman James
+Simmons beginning in 1790, the Dane John area was rough common ground, open
+to the public in the informal sense of being ungated but not managed or
+maintained as a garden. Before that, through the medieval period, the land
+associated with the Dungeon was the private estate of the lords of the
+manor, including the Chiche family and later the Hales family. Public access
+in the formal sense dates only to Simmons's transformation.
 
 ### Can visitors access the Dane John Hill?
 
-Yes, the Dane John Hill is accessible to the public and offers a peaceful
-retreat in the heart of Canterbury. Visitors can enjoy leisurely walks, picnics,
-and the scenic views from the mound.
+Yes. The Dane John Hill and surrounding gardens are accessible to the public
+and are centrally located within Canterbury's historic city walls, close to
+the railway station. A winding path established by Alderman Simmons in 1790
+leads to the summit, where the obelisk monument erected in his honor in 1803
+offers panoramic views of the city, including the Cathedral.
 
 ### Are there any events held at the Dane John Hill?
 
-Yes, the Dane John Hill and the surrounding gardens host various events
-throughout the year, including music concerts, festivals, and cultural
-celebrations. These events bring the community together and add to the vibrant
-atmosphere of the area.
-
-### What can visitors see from the top of the Dane John Hill?
-
-From the summit of the Dane John Hill, visitors are treated to sweeping views of
-Canterbury's historic cityscape, including the Cathedral, medieval walls, and
-beyond. It's a perfect spot for photography and taking in the beauty of the
-city.
-
-### Is there any significance to the layout of the gardens?
-
-The layout of the Dane John Gardens is designed to offer both aesthetic beauty
-and a tranquil space for relaxation. The gardens feature carefully curated
-plantings, walking paths, and historic elements that pay homage to the site's
-past, blending natural beauty with historical significance.
+Yes. The gardens host various events throughout the year, including concerts
+at the Victorian bandstand, festivals, and community gatherings. For current
+event schedules, the Kent County Council's Explore Kent website is the most
+reliable source.
 
 ### How do I get in touch regarding the park?
 
-For inquiries about the park, please visit the Kent County Council's [Explore
-Kent website](https://explorekent.org/activities/dane-john-gardens/).
+For inquiries about the park, please visit the Kent County Council's
+[Explore Kent website](https://explorekent.org/activities/dane-john-gardens/).
+
+---
 
 ## About the Manor of the Dungeon
 
 ### What is the Manor of the Dungeon?
 
 The Manor of the Dungeon, also known historically as the Manor of Dane John,
-refers to a historic estate located in Canterbury, Kent. Unlike the adjacent
-Dane John Hill and park, the manor represents a specific parcel of land with a
-rich history of ownership, usage, and significance within the broader urban and
-rural landscape of Canterbury.
+is a historic estate located in the parish of St. Mary Bredin in Canterbury,
+Kent. It is distinct from the adjacent public park, though the two share a
+common history: the park occupies ground that was once part of the manor
+estate. The manor as a legal entity has a documented history spanning from
+at least the twelfth century to the present.
 
 ### How old is the Manor of the Dungeon?
 
-The exact age of the Manor of the Dungeon is difficult to determine due to the
-complex layers of history in Canterbury. However, references to the manor date
-back to the medieval period, making it an integral part of Canterbury's
-historical tapestry for several centuries.
+The manor as a documented property appears in the historical record from the
+reigns of Henry II, Richard I, and King John, when the Chiche family are
+identified as its lords. This places the earliest documentary evidence in
+the period roughly from 1154 to 1216. The underlying land, including the
+Dane John mound, is considerably older than the manorial documentation.
 
-### Who owned the Manor of the Dungeon?
+### Who were the earliest documented lords of the Manor?
 
-Ownership of the Manor of the Dungeon has changed hands numerous times
-throughout history. Initially, it was likely controlled by local nobility or the
-church. In later years, it came into the possession of various individuals and
-families, contributing to its rich historical narrative.
+The earliest identified lords of the Manor of the Dungeon were the Chiche
+family of Canterbury. Ernaldus de Chich is recorded as a person of principal
+note in the reigns of Henry II, Richard I, and King John, holding the
+aldermanries of Burgate and Northgate in Canterbury as hereditary property.
+Thomas Chiche was bailiff of Canterbury in 1259 and 1271 and was a principal
+benefactor to St. Mary Bredin church. John Chich held the office of bailiff
+in 1349 and 1352. The full [Lords of the Manor](/lords-of-the-manor) page
+documents the known lineage.
 
-### Was the Manor of the Dungeon ever fortified?
+### Who was Sir James Hales, and why is he important?
 
-While there is no concrete evidence to suggest that the Manor of the Dungeon
-itself was fortified, its proximity to Canterbury's medieval defenses and its
-strategic significance might imply some level of fortification or defensive use
-in turbulent times. However, most historical records focus on the manor as an
-estate rather than a fortified stronghold.
+Sir James Hales was a Justice of the Court of Common Pleas in Tudor England
+who held the Dungeon as his family's seat. Imprisoned under Mary I for
+refusing to enforce Marian religious proclamations, he drowned himself in
+August 1554. The legal case that followed his death, Hales v. Petit (1562),
+established an important principle of English property law concerning the
+moment at which a felonious act is legally complete.
 
-### What was the Manor of the Dungeon used for?
+The case also entered the literary record: the gravediggers' scene in
+Shakespeare's _Hamlet_ (c. 1600-1601) is widely identified by scholars as
+a parody of the legal arguments from Hales v. Petit as reported in Plowden's
+_Commentaries_ of 1571. The gravedigger's argument that "an act hath three
+branches, it is to act, to do, to perform" echoes directly the language of
+the case. The full history is on the [Sir James Hales](/history/james-hales)
+page.
 
-Over the centuries, the Manor of the Dungeon likely served multiple purposes,
-including residential use by its owners, agricultural activities, and possibly
-as a site for administrative or legal proceedings related to the estate or the
-wider community.
+### What happened to the manor house itself?
 
-### Are there any notable historical events associated with the Manor of the Dungeon?
+By the time Edward Hasted wrote his _History and Topographical Survey of the
+County of Kent_ in the late eighteenth century, the manor house had already
+been demolished. Hasted noted that only parts of the outbuildings and garden
+walls remained, and that the property was then known as "Deanjohn Farm."
+The precise date of demolition has not been established, nor is it known
+what the house looked like. Hasted located it just outside the city walls,
+to the west of what he called "the lesser hill of the Dungeon."
 
-Specific events tied directly to the Manor of the Dungeon are not widely
-documented. However, given its location in Canterbury and its long history, it
-undoubtedly witnessed or was adjacent to significant historical developments in
-the city, including periods of conflict, change in governance, and social
-evolution.
+### What was the Manor of the Dungeon used for over the centuries?
 
-### Can visitors explore the Manor of the Dungeon today?
+The manor served the range of purposes typical of an English country estate
+through the medieval and early modern periods: residential use by its lords,
+agricultural production, and connection to the administrative and legal
+life of the city. Its lords held civic offices in Canterbury, funded the
+parish church of St. Mary Bredin, served as royal judges, and participated
+in the political and religious controversies of their respective eras. The
+land eventually became a public garden.
 
-The Manor of the Dungeon itself might not be accessible to the public as a
-distinct site separate from the Dane John Hill and park. Any remaining
-structures or land associated with the manor are likely private or have been
-integrated into the urban development of Canterbury. Visitors interested in the
-area's history are encouraged to explore the Dane John Gardens and seek
-information from local historical societies or archives for more details about
-the manor.
+### Where can I find more information about the history of the Manor?
 
-### Where can I find more information about the history of the Manor of the Dungeon?
+This site is itself the most concentrated resource currently available for
+the manor's history. For primary sources, the relevant archives are the
+Canterbury Cathedral Archives, the Kent History and Library Centre, the
+parish records of St. Mary Bredin, and the published works of Edward Hasted
+and T. G. Godfrey-Faussett, several of which are available in the
+[Archives](/archives) section of this site. The [Bibliography](/bibliography)
+page lists the principal scholarly sources.
 
-For those interested in delving deeper into the history of the Manor of the
-Dungeon, Canterbury's local history archives, historical societies, and museums
-are excellent resources. They offer access to documents, maps, and expert
-knowledge about Canterbury's past, including detailed information about its many
-historic estates.
+---
 
 ## About the Lord of the Dungeon
 
 ### Who currently holds the title of Lord of the Manor of the Dungeon?
 
-The title is held by James P. Howard, II. Beyond my professional life as a
-mathematician and statistician in Maryland, I have a deep-seated passion for
-history, linguistics, writing, and a broad spectrum of learning. This blend of
-interests fuels my dedication to preserving and exploring the rich narrative of
-the Manor of the Dungeon.
+The title is held by James P. Howard, II, a data scientist and
+mathematician residing in Maryland. Beyond his professional life, Howard
+has longstanding interests in history, languages, and the preservation
+and exploration of historical narratives. His stewardship of this site
+reflects his view that a manorial title, whatever its legal status, carries
+with it an obligation to the history of the place it names.
 
 ### Is the acquisition of this title legitimate?
 
-The process of acquiring such titles can sometimes be dubious. In my case, the
-transaction was indeed questionable, as the seller did not legitimately own the
-right to sell the title of "Lord of the Dungeon." This lack of authenticity is
-not uncommon in transactions involving feudal lordships and baronies.
+The honest answer is: complicated. The process by which manorial titles
+are bought and sold in England is itself somewhat contested. The seller,
+Manorial Title Register Limited, conveyed what they describe as a
+possessory incorporeal title, grounded in principles of constructive
+possession under English property law. The full instruments of conveyance
+are available in the [Archives](/archives) for anyone who wishes to read
+them carefully and form their own view.
 
-### What motivated you to purchase the title despite its dubious nature?
+The FAQ for this site has always been candid about the legal ambiguities
+involved. The title was purchased because "Lord of the Dungeon" is a
+remarkable phrase, and because that phrase came with an obligation to
+build something worthwhile around it. This site is that something.
 
-The unique and compelling nature of the title "Lord of the Dungeon" was the
-primary motivator. The allure of such an intriguing title outweighed concerns
-about its authenticity.
+### Are people required to refer to you as "Lord" in light of this title?
 
-### Who truly holds the title to the Manor of the Dungeon?
-
-Currently, the true ownership of the title is obscured by history and remains
-unresolved.
-
-### Are people required to refer to you as 'Lord' in light of this title?
-
-No, the title is not formally recognized as mine, thus there is no requirement
-for such address.
-
-### If the title were officially yours, would people need to address you as 'Lord'?
-
-Even if the title were legitimately mine, it wouldn't be necessary to address me
-as 'Lord,' as I hold other titles that would take precedence in formal address.
+No. The title is not formally recognized through any official channel that
+would create such a requirement.
 
 ### Is there a coat of arms associated with this title?
 
-It's important to understand that coats of arms are granted to individuals, not
-to titles such as manors or baronies. Historically, a coat of arms is a unique
-heraldic design on a shield or escutcheon or on a surcoat or tabard used to
-cover and protect armour and to identify the wearer. Thus, while a title like
-"Lord of the Dungeon" may carry historical significance and invoke a sense of
-lineage or heritage, it does not inherently come with a coat of arms. Any coat
-of arms associated with previous holders of the title would belong personally to
-them or their direct descendants, in accordance with heraldic laws and
-traditions, rather than to the title itself.
+Coats of arms are granted to individuals, not to manors or their titles.
+The arms borne by Sir James Hales, preserved in the archives of this site,
+belonged personally to him and to his heraldic descendants, not to the
+manor as a property. Any arms associated with previous lords of the Dungeon
+belong to those lords' descendants, not to the current holder of the title.
 
 ### How can I reach James Howard, Lord of the Dungeon?
 
-For correspondence with James Howard, kindly proceed to [his contact
-page](https://jameshoward.us/contact-me/).
+For correspondence with James Howard, please proceed to
+[his contact page](https://jameshoward.us/contact-me/).
+
+---
+
+## About the Archives
+
+### What primary sources are available on this site?
+
+The archives currently include T. G. Godfrey-Faussett's 1875 paper
+"Canterbury Till Domesday" (the foundational scholarly study of Canterbury's
+pre-Norman history); Charles Cotton's 1929 study of the Saxon Cathedral;
+the plan of Durovernum (Roman Canterbury); and the conveyance documents
+for the current lordship. Archive entries are also maintained for Plowden's
+_Commentaries_ (the primary source for Hales v. Petit), Hasted's _History
+of Kent_ (the primary source for the Chiche family), and Somner's
+_Antiquities of Canterbury_. The archive is actively being expanded.
+
+### Can I contribute documents or information?
+
+Yes. Anyone with documents, photographs, or information related to the
+Manor of the Dungeon or its history is warmly invited to make contact
+through [the contact page](https://jameshoward.us/contact-me/). This is
+particularly relevant for anyone with documentary evidence about the manor's
+ownership during the undocumented periods between the Chiche family and the
+Hales, and between the Hales forfeiture and the present.
+
+---
 
 ## Miscellaneous
 
 ### What inspired the creation of this website?
 
-Recognizing the somewhat unconventional nature of acquiring the title, I was
-motivated to leverage this opportunity for a greater good. The decision to
-purchase came hand-in-hand with a vision to contribute meaningfully to the
-manor's legacy. This website embodies that vision, serving as a platform to
-celebrate its history, unravel its mysteries, and engage with others who share a
-fascination for the past.
+The title "Lord of the Dungeon" is genuinely remarkable, and acquiring it
+created an obligation to do something worthwhile with it. The decision to
+build a scholarly resource site around the manor's history was made at the
+same time as the decision to acquire the title. The two were always
+connected. History that nobody has assembled in one place is history that
+is effectively inaccessible to most people, and making it accessible seemed
+like the right use of an otherwise eccentric transaction.
 
 ### Is this for real?
 

@@ -5,38 +5,77 @@ subtitle: What is the Manor of the Dungeon?
 featured_image: /assets/img/about-banner.webp
 ---
 
-Welcome to the Manor of the Dungeon, a nexus of history nestled within
-the illustrious heart of Canterbury. This platform celebrates the
-intricate layers of time enveloping this fascinating estate, shining
-a light on the myriad stories, influential figures, and pivotal
-events that have forged its indelible legacy.
+The Manor of the Dungeon is a historic estate in the parish of St. Mary
+Bredin in Canterbury, Kent, with a documented history stretching from the
+twelfth century to the present. Its common name derives from the Old French
+_donjon_, meaning a fortified keep, and it takes its full formal name from
+the parish church that has stood beside it for eight centuries. The mound
+at the center of what is now Dane John Gardens, which gives the estate its
+name, is considerably older than the manor itself.
 
-At the helm of this historical journey is [James P. Howard, II](https://jameshoward.us), the
-Lord of the Dungeon, a title that, while steeped in allure and mystery,
-evokes the rich tapestry of feudal titles woven through the fabric
-of time. Howard, a data scientist and mathematician residing in
-Maryland, brings a unique blend of analytical acumen and a profound
-passion for history to his stewardship of the Manor. His love for
-unraveling the complexities of the past, coupled with his expertise
-in data science, positions him uniquely to explore and interpret
-the Manor’s historical narrative.
+This site exists as a scholarly resource for the manor's history. It
+brings together primary sources, archival documents, and original historical
+writing on a place that touches an unusually wide range of English history:
+Celtic earthworks, Roman urban planning, the Saxon conversion, Norman
+feudalism, Tudor property law, the Reformation, Victorian civic improvement,
+and the development of English common law as it was satirized by Shakespeare.
+The manor's history is not a minor footnote; it intersects, at various points,
+with some of the central threads of English history.
 
-Howard's fascination with history extends beyond the academic; it
-is a personal journey into the stories that have shaped our world.
-His dedication to the Manor of the Dungeon is not just about preservation
-but about breathing life into the stories etched into its walls and
-grounds. It is a testament to his belief that history is a living
-entity, one that informs our present and guides our future.
+## What This Site Contains
 
-This site is more than a homage to the historical confluence of
-culture, personal journeys, and the Manor of the Dungeon itself. It is
-a tribute to those who seek to understand the intricacies of history,
-the curators of our heritage, and the dreamers who gaze beyond the
-present into the past’s enduring echoes.
+The [history section](/history) traces the manor's development from the
+pre-Roman mounds through the Victorian era, with dedicated pages for each
+major period and the people most closely associated with it. These include
+the Celtic origins of the Dane John mound, the Roman city of Durovernum,
+the Anglo-Saxon period, the Norman Conquest and its administrative legacy,
+the medieval Chiche family (the earliest documented lords), Sir James Hales
+and the Tudor legal case that made the manor historically significant, the
+transformation of the former estate into Dane John Gardens by Alderman James
+Simmons in 1790, and the Victorian improvements that gave the gardens their
+present character.
 
-Join us, guided by Howard's expertise and passion, as we delve into
-the Manor of the Dungeon, a place where history is not just preserved
-but vividly comes to life. Here, every corner, every silent witness
-to the ages, invites us to immerse ourselves in the vivid tableau
-of the past, urging us to explore, imagine, and appreciate the rich
-tapestry of human endeavor woven through the ages.
+The [Lords of the Manor](/lords-of-the-manor) page documents the known
+lineage of title holders from the Chiche family in the twelfth century to
+the present, honestly acknowledging the gaps in the record where they exist.
+
+The [archives](/archives) section collects primary sources and historical
+documents relating to the manor, including the foundational antiquarian
+scholarship of Godfrey-Faussett (1875), Hasted (1798), and Somner (1640);
+the legal documents from Hales v. Petit; the period maps of Canterbury; and
+the instruments of conveyance for the current lordship.
+
+The [bibliography](/bibliography) lists the scholarly sources underlying
+the site's historical content and provides a starting point for those who
+wish to pursue the history further.
+
+## The Lord of the Dungeon
+
+The title of Lord of the Manor of the Dungeon is currently held by
+[James P. Howard, II](https://jameshoward.us), a data scientist and
+mathematician residing in Maryland. Howard holds the title by legal
+conveyance dated 11 March 2024, the instruments of which are available
+in the archives. He is candid about the title's legal status: manorial
+lordships sold through commercial title registries occupy an ambiguous
+position in English property law, and the site's FAQ addresses that
+ambiguity directly rather than papering over it.
+
+Howard's interest in the manor is genuinely historical. The title "Lord
+of the Dungeon" is remarkable enough to attract attention; what that
+attention finds here is, he hopes, a scholarly resource worthy of the
+place's history.
+
+## Contributing
+
+The manor's history has not been the subject of a dedicated modern scholarly
+study, and significant gaps remain in the documented record, particularly for
+the century and a half between the last documented Chiche in the 1350s and
+the Hales family's Tudor-era tenure. The relevant archives, including the
+Canterbury Cathedral Archives, the Kent History and Library Centre, and the
+parish records of St. Mary Bredin, have not been systematically examined for
+this purpose.
+
+Anyone with documentary evidence, photographs, or other material relating to
+the manor or its history is warmly invited to make contact through
+[the contact page](https://jameshoward.us/contact-me/). Contributions will
+be acknowledged and, where appropriate, added to the archives.

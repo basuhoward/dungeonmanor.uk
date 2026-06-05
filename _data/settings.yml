@@ -8,14 +8,16 @@ main_menu_settings:
       url: /about
     - title: History
       url: /history
+    - title: Lords of the Manor
+      url: /lords-of-the-manor
     - title: Archives
       url: /archives
     - title: Gardens
       url: /gardens
     - title: FAQ
       url: /faq
-    - title: Award
-      url: /award
+    - title: Bibliography
+      url: /bibliography
 
 footer_menu_settings:
   menu_items:

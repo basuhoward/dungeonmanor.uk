@@ -1,32 +1,32 @@
 style: is-dark
 items:
   - title: About the Manor
-    subtitle: Find out more about the Lord of the Dungeon
+    subtitle: Learn what the Manor is and why this site exists
     icon: fa-user
     call_to_action_link: /about
     call_to_action_name: About
   - title: Manorial History
-    subtitle: Learn the history of the Manor and its role in Canterbury
+    subtitle: The history of the Manor from the ancient mounds to the present day
     icon: fa-monument
     call_to_action_link: /history
     call_to_action_name: History
+  - title: Lords of the Manor
+    subtitle: The documented lineage of lords from the Chiche family to the present
+    icon: fa-crown
+    call_to_action_link: /lords-of-the-manor
+    call_to_action_name: Lords of the Manor
   - title: Archives
-    subtitle: Browse the Manor's documentation collected here
+    subtitle: Primary sources and historical documents relating to the Manor
     icon: fa-box-archive
     call_to_action_link: /archives
     call_to_action_name: Archives
   - title: Dane John Gardens
-    subtitle: Learn about the modern Dane John Gardens
+    subtitle: The modern public park that stands on the former manor grounds
     icon: fa-leaf
     call_to_action_link: /gardens
     call_to_action_name: The Gardens
   - title: FAQ
-    subtitle: Frequently asked questions
+    subtitle: Frequently asked questions about the Manor, its history, and its Lord
     icon: fa-circle-question
     call_to_action_link: /faq
     call_to_action_name: FAQ
-  - title: Lord of Dungeon Award
-    subtitle: Coming sooon...
-    icon: fa-award
-    call_to_action_link: /award
-    call_to_action_name: The Award

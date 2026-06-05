@@ -35,15 +35,15 @@ for future generations to explore and appreciate.
     <div class="row">
       <div class="col-md-12">
         <div class="products">
-          <div class="row">
-            {% assign archives = site.archives %}
+          <div id="masonry-container" class="row">
+            {% assign archives = site.archives | where_exp: "item", "item.display != false" %}
             {% for item in archives %}
-            <div class="col-md-4 col-sm-4">
+            <div class="item col-md-4 col-sm-4">
               <div class="card card-with-shadow card-gray">
                 <div class="card-image text-center">
                   <a href="{{ item.url | relative_url }}">
                     {% if item.image %}
-                    <img class="img w-100" src="{{ item.image | relative_url }}" class="img-rounded img-responsive" />
+                    <img class="img w-100" src="{{ item.image | relative_url }}" class="img-rounded img-responsive" load="eager" />
                     {% else %}
                     <i class="fa-solid fa-{{ item.type }} fa-10x"></i>
                     {% endif %}
