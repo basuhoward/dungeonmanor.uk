@@ -16,23 +16,35 @@
       </div>
       <div class="col-lg-6 col-md-6 col-xs-12 col-12 text-lg-right text-lg-right text-md-center text-xs-center text-center my-auto">
         <nav class="footer-nav text-lg-right text-lg-right text-md-center text-xs-center text-center">
-          <ul class="text-lg-right text-lg-right text-md-center text-xs-center text-center">
+          <ul class="text-lg-right text-md-center text-xs-center text-center">
             {% for item in site.data.settings.footer_menu_settings.menu_items %}
-            {% if item.submenu_items %}
-
-            {% else %}
+            {% unless item.submenu_items %}
             <li class="nav-item my-0 py-0 mr-0 px-0">
-              <a href="{{ item.url | relative_url }}" class="nav-link my-0 py-0 px-0">
-                <span class="nav-link-inner--text">{{ item.title }}</span>
+              <a
+                href="{{ item.url | relative_url | escape }}"
+                class="nav-link my-0 py-0 px-0"
+                {% if item.target %}
+                target="{{ item.target | escape }}"
+                {% endif %}
+                {% if item.relationship or item.target == "_blank" %}
+                rel="{% if item.relationship %}{{ item.relationship | escape }}{% endif %}{% if item.relationship and item.target == "_blank" %} {% endif %}{% if item.target == "_blank" %}noopener noreferrer{% endif %}"
+                {% endif %}
+                {% for datum in item.data %}
+                data-{{ datum[0] }}{% if datum[1] != nil %}="{{ datum[1] | escape }}"{% endif %}
+                {% endfor %}
+                >
+                <span class="nav-link-inner--text">
+                  {{ item.title }}
+                </span>
               </a>
             </li>
-            {% endif %}
+            {% endunless %}
             {% endfor %}
           </ul>
         </nav>
         <h6>Copyright &copy; 2023-{{ 'now' | date: "%Y" }} James P. Howard, II</h6>
       </div>
     </div>
-    {% include cookiewarning.html %}
   </div>
 </footer>
+{% include gdpr-cookie.html %}

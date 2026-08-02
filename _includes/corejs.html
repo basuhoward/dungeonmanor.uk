@@ -19,8 +19,15 @@
 <script src="https://kit.fontawesome.com/42a187197b.js" crossorigin="anonymous"></script>
 
 <!-- Cookie Warnings JS -->
-<script src="{{ '/assets/js/cookiealert.js' | relative_url }}" type="text/javascript">></script>
-
+<script src="{{ '/assets/js/gdpr-cookie.js' | relative_url }}"></script>
+<script>
+  cookieStart(
+    {{ site.cookie_consent.ga_id | jsonify }},
+    {{ site.cookie_consent.cookie_name | jsonify }},
+    {{ site.cookie_consent.duration_days | jsonify }},
+    {{ site.cookie_consent.policy_version | jsonify }}
+  );
+</script>
 <script src="{{ '/assets/js/ukraine.js' | relative_url }}" defer></script>
 
 <script>

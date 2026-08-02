@@ -86,3 +86,9 @@ plugins:
 
 svg:
   optimize: true
+
+cookie_consent:
+  ga_id: "G-CPXYN461M3"
+  cookie_name: "cookieConsent"
+  duration_days: 365
+  policy_version: "1"
