@@ -137,11 +137,24 @@ in September 1734.
 
 ---
 
+## Henry Lee Warner
+
+**Period:** From 1734
+
+Henry Lee's son (1688-1760), of Nackington near Canterbury. He took the
+additional surname Warner on succeeding to the estates of the family of
+John Warner, Bishop of Rochester, and settled at Walsingham Abbey in
+Norfolk, beginning the family's long connection with that county. The
+History of Parliament records him as Member for Canterbury and heir to
+"lands in six counties."
+
+---
+
 ## Thomas Lee Warner
 
-**Period:** 1734-1768
+**Period:** To 1768
 
-Henry Lee's descendant. In 1752, Thomas Lee Warner pulled down to the ground
+Of the same generation of the Lee Warner family. In 1752, Thomas Lee Warner pulled down to the ground
 the mansion house of the Dungeon, then known as Donjon, alias the
 Coventryhouse (so called from Lady Coventry's having resided in it), leaving
 only a few of the offices in the front and the garden walls standing, together
@@ -156,21 +169,74 @@ in 1768.
 
 Henry Lee Warner, of Walsingham Abbey in Norfolk, succeeded his father
 Thomas Lee Warner in the estate. He was the owner at the time Edward Hasted
-wrote his _History and Topographical Survey of the County of Kent_ around 1800.
+wrote his _History and Topographical Survey of the County of Kent_ around
+1800, and Hasted records him as "the present owner of it." In the 1820s
+the topographer W. H. Ireland noted that the manorial estate in St. Mary
+Bredin parish was "now known by the name of Deanjohn Farm," still in Lee
+Warner hands.
 
 ---
 
-## Subsequent Holders and Public Transformation
+## The Reverend Daniel Henry Lee Warner
 
-**Period:** Late eighteenth century onward
+**Period:** Early nineteenth century to 1858
 
-In 1790, Alderman James Simmons took a lease on the Dane John from the Mayor
-and Commonalty of Canterbury, transforming the former manorial ground into a
-public garden. In 1796 he returned it to the city following a dispute. Since
-1803, when a Burghmote committee was formed to manage the gardens, the land
-has been held in public trust and administered by the successor municipal
-authority. The manorial lordship, as distinct from the land itself, became
-dormant.
+With Daniel Henry Lee Warner (1775-1858) the Kent property followed a new
+branch of the family. He married Anne Brydges, co-heiress of Tyberton
+Court in Herefordshire, and the muniments of that house, now in the
+Herefordshire Archive and Records Centre, include leases of "Donjon Farm,
+Canterbury" of 1695 and 1814, deeds of the kind that travel with
+ownership. The 1814 lease falls within his tenure. The family's continued
+hold on the manor's advowson, which Hasted records as running with the
+lordship since the reign of Henry VIII, is confirmed by the presentation
+of his son, the Reverend George Brydges Lee Warner (1812-1880), as vicar
+of St. Mary Bredin; the church's spire was raised in 1881 as that
+vicar's memorial.
+
+---
+
+## Robert Henry Lee-Warner
+
+**Period:** 1858-1895 (presumptive)
+
+Of Tyberton Court, recorded there by the censuses of 1881 and 1891 and
+listed among the landowners of England in Bateman's survey of 1878. He
+died at Cheltenham on 5 March 1895. No conveyance of the Canterbury
+manor out of the family during his tenure has been found, and he is
+therefore its presumptive lord for this period.
+
+---
+
+## Major Chandos Brydges Lee-Warner
+
+**Period:** 1895-1944 (presumptive)
+
+The last of the Lee-Warners of Tyberton Court (1863-1944). He married
+Lady Dorothea Augusta FitzClarence, a descendant of King William IV, in
+1899, and died on 1 October 1944; Tyberton Court was demolished in 1952.
+On the present state of the evidence he is the last person who can
+plausibly be identified as heir to the genuine lordship of the Manor of
+the Dungeon, which, absent any later conveyance, would have passed into
+his estate and to his descendants.
+
+---
+
+## The Lordship After 1944: An Open Question
+
+**Period:** 1944 to the present
+
+No sale, devise, or other disposition of the lordship after the
+nineteenth century has yet been found. The lordship may remain,
+unrecognized, in the residuary estates of the Lee-Warner heirs; it may
+have passed silently with a sale of Dane John Farm; a family
+recollection, so far unsupported by any document, suggests it may have
+been absorbed by an insurance company around the turn of the twentieth
+century, as happened to many encumbered estates in that era. Research
+in the probate records, the 1910 Inland Revenue valuation, and the
+Kentish newspapers is ongoing. The land inside the walls, meanwhile,
+followed its own path: city property since the sixteenth century,
+made into a public garden from 1790, and administered by the municipal
+authority ever since.
 
 ---
 
@@ -189,9 +255,17 @@ this site.
 ## A Note on Sources
 
 The documented history above draws primarily on Edward Hasted's _History and
-Topographical Survey of the County of Kent_ (Volume 11, 1800), available
-through British History Online, for the medieval through eighteenth-century
-periods. Hasted's full account of the manor extends from the Chiche family
-through Henry Lee Warner and provides the most complete narrative of
-documented ownership. Anyone with documentary evidence bearing on the periods
-not covered by Hasted is invited to make contact through this site.
+Topographical Survey of the County of Kent_ (Volume 11, 1800) and his
+_History of the Ancient and Metropolitical City of Canterbury_ (1801),
+both available through British History Online and the Internet Archive,
+for the medieval through eighteenth-century periods. The nineteenth- and
+twentieth-century entries rest on W. H. Ireland's _England's Topographer_
+(1828-1830), the History of Parliament, Bateman's _Great Landowners of
+Great Britain and Ireland_ (1878), census returns, and archival
+catalogues, principally the leases of Donjon Farm among the Tyberton
+Court muniments at the Herefordshire Archive and Records Centre
+(A81/II/237-8) and the Lee Warner papers at the Norfolk Record Office.
+Entries marked presumptive rest on the absence of any recorded
+alienation rather than on a positive document, and are stated as such.
+Anyone with documentary evidence bearing on the manor's descent,
+particularly after 1858, is invited to make contact through this site.

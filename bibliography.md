@@ -43,6 +43,33 @@ British History Online
 ([history.ac.uk](https://www.british-history.ac.uk/)) and the Internet
 Archive. An archive entry is maintained on this site.
 
+**Hasted, Edward.** _The History of the Ancient and Metropolitical City
+of Canterbury, Civil and Ecclesiastical_. 2 volumes. Canterbury, 1801.
+
+Hasted's separate history of the city, containing his fuller account of
+the Dungeon and, critically, the statement that the advowson of St.
+Mary Bredin "has continued in the possession of the owners of that
+manor" since the reign of Henry VIII, the key to tracing the lordship
+through the nineteenth century. Available through the Internet Archive.
+An archive entry is maintained on this site.
+
+**Ireland, W. H.** _England's Topographer, or A New and Complete
+History of the County of Kent_. 4 volumes. London: G. Virtue, 1828-1830.
+
+Updates Hasted's account of the manor to the late 1820s and records
+the manorial estate as "now known by the name of Deanjohn Farm,"
+identifying the farm through which the lordship can be traced in
+nineteenth-century records. Available through the Internet Archive.
+An archive entry is maintained on this site.
+
+**Bateman, John.** _The Great Landowners of Great Britain and Ireland_.
+London: Harrison, 1878.
+
+The standard digest of the 1873 Return of Owners of Land, recording
+both Lee-Warner branches, of Walsingham Abbey and of Tyberton Court,
+among the landowners of late Victorian Britain. Available through the
+Internet Archive. An archive entry is maintained on this site.
+
 ---
 
 ## Nineteenth-Century Scholarship
@@ -142,6 +169,36 @@ The county archive for Kent, holding manorial records, parish registers,
 and other primary sources relevant to the history of the Dungeon and
 its lords.
 
+**The History of Parliament** ([historyofparliamentonline.org](https://www.historyofparliamentonline.org/))
+
+The biographical entries for Henry Lee (c. 1657-1734), "of Dane John,
+nr. Canterbury," and Henry Lee Warner (1688-1760), of Nackington,
+document the family that acquired the manor in 1680 and carried it into
+the nineteenth century.
+
+**Herefordshire Archive and Records Centre**
+
+Holds the muniments of the Brydges and Lee-Warner families of Tyberton
+Court (collections A81 and AF12), including leases of "Donjon Farm,
+Canterbury" of 1695 and 1814 (A81/II/237-8), the principal archival
+evidence that the Canterbury estate followed the Tyberton branch of
+the family.
+
+**Norfolk Record Office** ([norfolk.gov.uk](https://www.norfolk.gov.uk/norfolk-record-office))
+
+Holds the Lee Warner papers of Walsingham Abbey, including a list of
+property transactions relating to the "Manor of Dongon, Dungeon" from
+1580 to 1721 (Leew Box 4 No 1 917 x 9).
+
+**The National Archives, Kew** ([nationalarchives.gov.uk](https://www.nationalarchives.gov.uk/))
+
+Holds Tudor and Stuart litigation touching the manor, including two
+suits of 1601 concerning tithes of land in the manor of Dungeon (REQ
+2/234/32, REQ 2/236/26) and a Star Chamber case of 1602-1603 concerning
+forcible entry on a parcel of the manor (STAC 5/E17/28), as well as the
+field books of the 1910 Inland Revenue valuation (IR 58), the most
+promising unexamined source for the manor's twentieth-century fate.
+
 ---
 
 ## A Note on Gaps
@@ -150,8 +207,12 @@ The bibliography above reflects the sources consulted in preparing this
 site's content. It is not exhaustive. The manor's history has not been
 the subject of a dedicated modern scholarly study, and significant
 primary source material almost certainly remains unexamined in the
-archives listed above. The period between the last documented Chiche
-in the mid-fourteenth century and the documented Hales tenure in the
-sixteenth century is particularly underresearched. Contributions of
-archival evidence are welcomed through the
+archives listed above. Two periods are particularly underresearched:
+the gap between the last documented Chiche in the mid-fourteenth
+century and the documented Hales tenure in the sixteenth century, and
+the fate of the lordship after the death of the Reverend Daniel Henry
+Lee Warner in 1858, for which no conveyance has yet been found in any
+public catalogue. Research into the probate records of the Lee-Warner
+family, the 1910 Inland Revenue valuation, and the Kentish newspapers
+is ongoing. Contributions of archival evidence are welcomed through the
 [contact page](https://jameshoward.us/contact-me/).

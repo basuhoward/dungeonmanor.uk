@@ -85,10 +85,29 @@ shaped English property law and left identifiable traces in Shakespeare's
 _Hamlet_. The Hales family's connection to the manor continued through a
 later Sir James Hales of the Dungeon, who died in 1665.
 
+## The Lees and the Lee Warners
+
+In 1680 the manor passed to Henry Lee, Canterbury alderman and Member
+of Parliament, and through his descendants, who took the additional
+name Warner, it remained in a single family line for at least a
+century and a half more. The Lee Warners carried the lordship first to
+Walsingham Abbey in Norfolk and then, in the nineteenth century, to
+Tyberton Court in Herefordshire, while the manorial estate at
+Canterbury dwindled to a tenanted holding known as Dane John Farm.
+The [history of the Lee Warner era and the search for the lost
+lordship]({{ '/history/lee-warner-era' | relative_url }}) traces this
+long, quiet period in detail, down to the last documented heirs in
+the twentieth century.
+
 ## Transformation into Dane John Gardens
 
-By the late eighteenth century the former manor grounds were rough common
-land, the mansion having been demolished in 1752. In 1790,
+The Dane John field inside the city walls, from which the manor takes
+its common name, followed a separate path from the manor itself: it had
+come into the possession of the Mayor and Commonalty of Canterbury by
+the sixteenth century, while the manorial estate beyond the walls
+remained with the manor's lords. By the late eighteenth century the
+field was rough common ground, the manor's mansion nearby having been
+demolished in 1752. In 1790,
 [Alderman James Simmons]({{ '/history/alderman-simmons' | relative_url }}),
 newspaper proprietor, banker, and twice Mayor of Canterbury, took a lease
 on the Dane John from the city at nominal rent and transformed it into a
