@@ -7,17 +7,19 @@ main_menu_settings:
     - title: About
       url: /about
     - title: History
-      url: /history
-    - title: Succession
-      url: /lords-of-the-manor
-    - title: State of the Claim
-      url: /state-of-the-claim
-    - title: Archives
-      url: /archives
+      submenu_items:
+        - title: Historical overview
+          url: /history
+        - title: Lords and succession
+          url: /lords-of-the-manor
+        - title: State of the claim
+          url: /state-of-the-claim
     - title: Research
       submenu_items:
         - title: Research ledger
           url: /research
+        - title: Documentary archive
+          url: /archives
         - title: Bibliography
           url: /bibliography
     - title: Explore

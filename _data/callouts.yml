@@ -1,37 +1,31 @@
-style: is-dark
 items:
-  - title: About the Manor
-    subtitle: Learn what the Manor is and why this site exists
-    icon: fa-user
-    call_to_action_link: /about
-    call_to_action_name: About
-  - title: Manorial History
-    subtitle: The history of the Manor from the ancient mounds to the present day
-    icon: fa-monument
-    call_to_action_link: /history
-    call_to_action_name: History
-  - title: Lords of the Manor
-    subtitle: The documented succession, the presumptive heirs, and the break in the record after 1944
-    icon: fa-crown
-    call_to_action_link: /lords-of-the-manor
-    call_to_action_name: Lords of the Manor
-  - title: Archives
-    subtitle: Read the historical sources and the modern instruments, with provenance and evidential limits
-    icon: fa-box-archive
-    call_to_action_link: /archives
-    call_to_action_name: Archives
-  - title: State of the Claim
-    subtitle: A proposition-by-proposition account of what is established, supported, asserted, or still unknown
-    icon: fa-scale-balanced
-    call_to_action_link: /state-of-the-claim
-    call_to_action_name: State of the Claim
-  - title: Map Room
-    subtitle: Compare three antiquarian reconstructions of Roman, Saxon, and Norman Canterbury
-    icon: fa-map
-    call_to_action_link: /map-room
-    call_to_action_name: Map Room
-  - title: Research Ledger
-    subtitle: Follow the open questions, source register, and dated findings behind the site
-    icon: fa-magnifying-glass
-    call_to_action_link: /research
-    call_to_action_name: Research
+  - period: First–second centuries
+    title: The mound before the manor
+    subtitle: >-
+      The ancient earthwork became a fixed point in Canterbury's landscape,
+      old enough for the Roman wall to bend around it.
+    link: /history/celtic-origins
+  - period: After 1066
+    title: A Norman donjon
+    subtitle: >-
+      The conquerors briefly adapted the mound as a motte-and-bailey
+      fortification before the stone castle superseded it.
+    link: /history/norman-period
+  - period: Twelfth–eighteenth centuries
+    title: A manorial seat
+    subtitle: >-
+      The Chiche, Hales, Sheldon, Lee, and Lee-Warner families carried the
+      manor through six centuries of Canterbury life.
+    link: /lords-of-the-manor
+  - period: 1554–c. 1601
+    title: A case reaches Hamlet
+    subtitle: >-
+      Sir James Hales's death produced a celebrated property case—and an
+      argument Shakespeare placed in the mouths of his gravediggers.
+    link: /history/james-hales
+  - period: From 1790
+    title: Dane John Gardens
+    subtitle: >-
+      Alderman James Simmons transformed the old ground into a public garden,
+      preserving the mound within the modern city.
+    link: /gardens
