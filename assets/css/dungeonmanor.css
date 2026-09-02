@@ -224,6 +224,22 @@ a:hover {
     font-weight: 700;
     letter-spacing: 0.07em;
     text-transform: uppercase;
+    white-space: nowrap;
+}
+
+@media (min-width: 992px) {
+    .navbar .navbar-nav {
+        flex-wrap: nowrap;
+    }
+
+    .navbar .nav-item {
+        flex: 0 0 auto;
+    }
+
+    .navbar .nav-link {
+        padding-right: 0.72rem !important;
+        padding-left: 0.72rem !important;
+    }
 }
 
 .navbar .dropdown-menu {
