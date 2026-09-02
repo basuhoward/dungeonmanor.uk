@@ -5,7 +5,7 @@
   if (!room) return;
 
   var tabs = Array.prototype.slice.call(room.querySelectorAll('[role="tab"]'));
-  var images = Array.prototype.slice.call(room.querySelectorAll('[role="tabpanel"]'));
+  var panels = Array.prototype.slice.call(room.querySelectorAll('[data-map-image-panel]'));
   var captions = Array.prototype.slice.call(room.querySelectorAll('[data-map-caption]'));
   var canvas = room.querySelector('[data-map-canvas]');
   var stage = room.querySelector('[data-map-stage]');
@@ -41,10 +41,10 @@
       candidate.classList.toggle('is-active', selected);
     });
 
-    images.forEach(function (image) {
-      var selected = tab.getAttribute('aria-controls') === image.id;
-      image.hidden = !selected;
-      image.classList.toggle('is-active', selected);
+    panels.forEach(function (panel) {
+      var selected = tab.getAttribute('aria-controls') === panel.id;
+      panel.hidden = !selected;
+      panel.classList.toggle('is-active', selected);
     });
 
     captions.forEach(function (caption) {

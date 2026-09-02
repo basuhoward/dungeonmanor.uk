@@ -1036,7 +1036,13 @@ a:hover {
     transition: transform 0.18s ease;
 }
 
+.map-room__panel {
+    width: 100%;
+    height: 100%;
+}
+
 .map-room__image {
+    display: block;
     width: 100%;
     height: 100%;
     object-fit: contain;

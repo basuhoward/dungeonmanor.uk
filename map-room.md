@@ -43,15 +43,19 @@ in showing how Victorian antiquaries understood Canterbury's development.
   <div class="map-room__stage" data-map-stage tabindex="0" aria-label="Interactive historical map. Use arrow keys to pan when zoomed.">
     <div class="map-room__canvas" data-map-canvas>
       {% for layer in site.data.map_layers %}
-      <img
+      <div
         id="map-panel-{{ layer.id }}"
-        class="map-room__image{% if forloop.first %} is-active{% endif %}"
-        src="{{ layer.image | relative_url }}"
-        alt="{{ layer.title }}"
+        class="map-room__panel{% if forloop.first %} is-active{% endif %}"
         role="tabpanel"
         aria-labelledby="map-tab-{{ layer.id }}"
-        {% unless forloop.first %}hidden{% endunless %}
-        {% if forloop.first %}loading="eager"{% else %}loading="lazy"{% endif %}>
+        data-map-image-panel
+        {% unless forloop.first %}hidden{% endunless %}>
+        <img
+          class="map-room__image"
+          src="{{ layer.image | relative_url }}"
+          alt="{{ layer.title }}"
+          {% if forloop.first %}loading="eager"{% else %}loading="lazy"{% endif %}>
+      </div>
       {% endfor %}
     </div>
   </div>
