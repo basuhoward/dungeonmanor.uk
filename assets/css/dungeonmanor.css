@@ -378,6 +378,12 @@ a:hover {
     border-color: var(--dm-line);
 }
 
+/* Illustrated source cards should sit within the text, not collide with its top edge. */
+.profile-content .item.pull-right {
+    margin-top: 1.75rem;
+    margin-bottom: 1.25rem;
+}
+
 .claim-summary {
     padding: 4.5rem 0;
     background: var(--dm-stone);
