@@ -5,6 +5,10 @@ slug: roman-canterbury-map
 type: map
 year: 1875
 tags: ["Durovernum", "Godfrey-Faussett", "image", "map", "Roman period"]
+period: historical
+source_type: Antiquarian reconstruction
+evidence_status: supported
+provenance: Fold-out plate from T. G. Godfrey-Faussett's Canterbury Till Domesday (1875)
 description: "Fold-out plan of Roman Canterbury (Durovernum Cantiacorum) from Godfrey-Faussett's 1875 paper, showing what he classified as Celtic and Roman features, with the Dane John mound at point A. A nineteenth-century antiquarian reconstruction."
 image: /assets/archives/roman-canterbury.webp
 file_path: /assets/archives/roman-canterbury.webp

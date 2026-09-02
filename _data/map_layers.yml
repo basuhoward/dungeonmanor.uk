@@ -1,0 +1,36 @@
+- id: roman
+  short_title: Roman
+  title: Canterbury I — Roman Durovernum
+  period: First to early fifth centuries
+  image: /assets/archives/roman-canterbury.webp
+  archive_url: /archives/roman-canterbury-map/
+  description: >-
+    Godfrey-Faussett's 1875 reconstruction of the Roman city. The Dungeon mound
+    is marked A near the south-east wall. The plan is historical evidence about
+    nineteenth-century interpretation, not a modern archaeological survey.
+  focus: The wall bends around the mound—the spatial observation at the centre of Godfrey-Faussett's argument that it predated the Roman circuit.
+
+- id: saxon
+  short_title: Anglo-Saxon
+  title: Canterbury II — Cantwarabyrig
+  period: Fifth to eleventh centuries
+  image: /assets/archives/saxon-canterbury.webp
+  archive_url: /archives/saxon-canterbury-map/
+  description: >-
+    The second plan retains the Roman ground plan and adds the extended northern
+    city, royal and ecclesiastical sites, gates, churches, and St Augustine's Abbey.
+  focus: The mound remains fixed near the southern wall while Canterbury's political and ecclesiastical centre expands north and east.
+
+- id: norman
+  short_title: Norman
+  title: Canterbury III — Norman Canterbury
+  period: 1066 to the early twelfth century
+  image: /assets/archives/norman-canterbury.webp
+  archive_url: /archives/norman-canterbury-map/
+  description: >-
+    The third plan adds the Norman castle, westward wall extension, Lanfranc's
+    palace, and new institutions. The ancient mound was briefly adapted as a
+    timber fortification before the stone castle superseded it.
+  focus: >-
+    Read the three plans as a sequence: the city changes around a
+    topographical feature that persists.

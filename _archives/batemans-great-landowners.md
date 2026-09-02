@@ -5,6 +5,10 @@ slug: batemans-great-landowners
 type: book
 year: 1878
 tags: ["Landownership", "Lee Warner", "Primary Source", "Tyberton Court", "Victorian Era", "Walsingham Abbey"]
+period: historical
+source_type: Published reference work
+evidence_status: documented
+provenance: John Bateman's 1878 digest of the 1873 Return of Owners of Land; public-domain scan via Internet Archive
 description: "John Bateman's celebrated digest of the 1873 Return of Owners of Land, recording both branches of the Lee-Warner family, of Walsingham Abbey and of Tyberton Court, among the landowners of late Victorian Britain."
 file_path: https://archive.org/download/greatlandownerso00bate/greatlandownerso00bate.pdf
 ---

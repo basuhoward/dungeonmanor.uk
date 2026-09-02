@@ -5,9 +5,27 @@ type: file-pdf
 slug: verification-letter-for-registering-title-on-documents
 year: 2024
 tags: ["Legal Document", "Verification Letter", "Lordship"]
-description: "This official verification letter from the Manorial Title Register Limited certifies the lawful succession of James Patrick Howard II to the manorial title of Lord of the Manor of The Dungeon in the County of Kent. Issued on 11th March 2024, this document confirms that James Patrick Howard II has provided sufficient Documentary Evidence of Title for his succession and is officially recognized by the Chancery Office. His name and title have been duly registered, allowing him legal recognition as Lord of the Manor of The Dungeon in all official documentation, in compliance with the Honours (Prevention of Abuses) Act 1925."
+period: modern
+source_type: Seller-issued letter
+evidence_status: documented
+provenance: Issued by Manorial Title Register Limited and supplied to the purchaser
+description: "A letter from Manorial Title Register Limited describing registration in its own system and the seller's view of the title's documentary use. It is not correspondence from a government chancery or proof of public registration."
 image: /assets/img/archives/verification-letter-for-registering-title-on-documents.webp
 file_path: /assets/archives/verification-letter-for-registering-title-on-documents.pdf
 ---
 
-The Governing Council of the Manorial Title Register confirms James Patrick Howard II's lawful succession to the title of Lord of the Manor of The Dungeon, Kent, as of 11th March 2024. His succession, supported by Documentary Evidence of Title, is officially recognized, with his name and title registered in the Official Manorial Title Register. This letter serves as legal authorization for him to be recognized in all official documentation under this title, adhering to the Honours (Prevention of Abuses) Act 1925.
+This letter, dated 11 March 2024, was issued by Manorial Title Register
+Limited. It describes the evidence the company says it accepted, the entry it
+made in its own register, and its view that the designation may be used on
+documents. It also refers to a “Chancery Office” and the Honours (Prevention of
+Abuses) Act 1925.
+
+The letter should not be confused with recognition by a government chancery,
+HM Land Registry, or a court. Nothing in the archive identifies the named
+office as a public authority or the register as an official state register.
+Nor does the letter provide the historical root of title on which its
+conclusions depend.
+
+It is retained because it formed part of the transaction and because readers
+should be able to examine the exact claims made. No reliance is placed here on
+its description of “official” recognition.

@@ -5,11 +5,30 @@ type: file-pdf
 slug: deed-of-creation-of-a-possessory-title
 year: 2024
 tags: ["Legal Document", "Deed of Creation", "Lordship", "Incorporeal Rights"]
-description: "This document outlines the legal foundations and principles underlying the possession and transfer of incorporeal hereditament titles, particularly focusing on the Lord of the Manor of The Dungeon. It highlights the distinction between de facto and legal possession, emphasizing the legal right to quiet and peaceful enjoyment of incorporeal chattels associated with the title. On 11th March 2024, Manorial Title Register Limited assigned the rights to the incorporeal hereditament title of Lord of the Manor of The Dungeon to James Patrick Howard II for £175, confirming the lawful transfer of rights under English law and the protections afforded by the Law of Property Act 1925."
+period: modern
+source_type: Seller-issued instrument
+evidence_status: documented
+provenance: Supplied by Manorial Title Register Limited to the purchaser
+description: "A seller-issued instrument setting out the company's theory of a possessory manorial title and purporting to create or assign that title on 11 March 2024. It is evidence of the theory asserted, not independent proof of the historical lordship's ownership."
 image: /assets/img/archives/deed-of-creation-of-a-possessory-title.webp
 file_path: /assets/archives/deed-of-creation-of-a-possessory-title.pdf
 ---
 
-The Deed of Creation of a Possessory Title, executed on the 11th of March, 2024, signifies a crucial development in the legal and historical narrative of the Manor of The Dungeon. This document formalizes the assignment of the incorporeal hereditament title of Lord of the Manor of The Dungeon to James Patrick Howard II, underlining the legal nuance between de facto possession and the broader, legally recognized right to possess. By delineating the rights of Jus in re propria and Jura in re aliena, it ensures Howard II's undisturbed enjoyment and ownership of the title, adhering to the principles established by the Law of Property Act 1925.
+This instrument, executed on 11 March 2024, presents Manorial Title Register
+Limited's legal theory for the possession and transfer of an incorporeal
+“possessory title.” It distinguishes possession from a right to possess and
+uses the terms _jus in re propria_ and _jura in re aliena_. It then purports
+to create or assign the described title to James P. Howard, II.
 
-This deed reflects the meticulous process undertaken by Manorial Title Register Limited to establish the legal standing of Howard II as the rightful Lord of the Manor. It not only consolidates his legal ownership and rights associated with the title but also reinforces the commitment to uphold the integrity and legacy of manorial titles within the framework of contemporary English law. With this deed, Howard II’s title is irrevocably recognized, marking a significant milestone in the stewardship of the Manor of The Dungeon.
+## Evidential Weight
+
+The instrument is useful primary evidence of the seller's theory and of the
+paperwork supplied in the transaction. It is not a judgment, a Land Registry
+entry, or an opinion from an independent solicitor. No documentary root
+connecting the company to a previous holder of the historical lordship is
+included.
+
+The title's historical existence and the effectiveness of this particular
+instrument are separate propositions. The former is well supported; the
+latter remains unestablished on the present evidence. See the
+[state of the claim]({{ '/state-of-the-claim' | relative_url }}).

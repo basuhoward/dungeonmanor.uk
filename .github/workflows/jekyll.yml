@@ -7,8 +7,9 @@
 name: Deploy Jekyll site to Pages
 
 on:
-  # Runs on pushes targeting the default branch
   push:
+    branches: main
+  pull_request:
     branches: main
   workflow_dispatch:
 
@@ -45,12 +46,16 @@ jobs:
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+      - name: Validate internal links and assets
+        run: python3 scripts/validate_site.py
       - name: Upload artifact
+        if: github.event_name != 'pull_request'
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
 
   # Deployment job
   deploy:
+    if: github.event_name != 'pull_request'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

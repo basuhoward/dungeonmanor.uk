@@ -5,23 +5,26 @@ type: file-svg
 slug: arms-of-james-hales
 year: 16c
 tags: ["arms", "James Hales"]
-description: "Gules three arrows Or, feathered and barbed Argent"
+period: historical
+source_type: Heraldic reference
+evidence_status: supported
+provenance: Blazon recorded in Burke's General Armory (1884), page 440
+description: "The arms attributed to the Hales family: Gules, three arrows Or, feathered and barbed Argent. These were personal or hereditary arms, not arms of the manor."
 image: /assets/archives/arms-of-james-hales.svg
 file_path: /assets/archives/arms-of-james-hales.svg
 ---
 
-The arms of Sir James Hales of the Dungeon are blazoned as "Gu. three arrows or,
-feathered and barbed ar." This heraldic description translates to a red shield
-("Gu." for "gules") featuring three golden arrows ("or" for "gold"), with their
-feathers and barbs in silver ("ar." for "argent"). The design is both visually
-striking and symbolically rich. The red background traditionally signifies
-warrior-like qualities such as military strength and magnanimity, while the
-golden arrows denote readiness for battle and martial expertise. The silver
-feathers and barbs highlight clarity and purity of intent. As a distinguished
-member of the Hales family, Sir James' arms would have conveyed his noble
-status, martial prowess, and readiness to defend his honor and estate. These
-elements collectively underscore the values and reputation Sir James and his
-lineage sought to project within the socio-political tapestry of their time.
+The arms attributed to the Hales family are blazoned “Gu. three arrows or,
+feathered and barbed ar.”—a red field bearing three gold arrows with silver
+feathers and points. The accompanying SVG is a modern rendering of that
+blazon, not a facsimile of a sixteenth-century grant or manuscript.
+
+No symbolic meaning is assigned here to the colours or charges. Such generic
+“heraldic symbolism” is usually retrospective and is not evidence of what the
+armiger intended. More importantly, these were the arms of a person or family,
+not of the Manor of the Dungeon. Their appearance in this archive documents a
+former lord; it does not make them available to a later purchaser of the
+lordship.
 
 Burke, Bernard. _[The General Armory of England, Scotland, Ireland, and Wales:
 Comprising a Registry of Armorial Bearings from the Earliest to the Present

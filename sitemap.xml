@@ -53,4 +53,15 @@ sitemap:
     </url>
     {% endunless %}
   {% endfor %}
+  {% assign documents = site.archives | concat: site.research_notes %}
+  {% for document in documents %}
+    {% unless document.sitemap.exclude == "yes" or document.published == false %}
+    <url>
+      <loc>{{ document.url | absolute_url }}</loc>
+      {% if document.date %}<lastmod>{{ document.date | date_to_xmlschema }}</lastmod>{% endif %}
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    {% endunless %}
+  {% endfor %}
 </urlset>

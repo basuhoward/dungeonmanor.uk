@@ -7,17 +7,29 @@ main_menu_settings:
     - title: About
       url: /about
     - title: History
-      url: /history
-    - title: Lords of the Manor
-      url: /lords-of-the-manor
-    - title: Archives
-      url: /archives
-    - title: Gardens
-      url: /gardens
-    - title: FAQ
-      url: /faq
-    - title: Bibliography
-      url: /bibliography
+      submenu_items:
+        - title: Historical overview
+          url: /history
+        - title: Lords and succession
+          url: /lords-of-the-manor
+        - title: State of the claim
+          url: /state-of-the-claim
+    - title: Research
+      submenu_items:
+        - title: Research ledger
+          url: /research
+        - title: Documentary archive
+          url: /archives
+        - title: Bibliography
+          url: /bibliography
+    - title: Explore
+      submenu_items:
+        - title: Map room
+          url: /map-room
+        - title: Dane John Gardens
+          url: /gardens
+        - title: FAQ
+          url: /faq
 
 footer_menu_settings:
   menu_items:

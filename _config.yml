@@ -18,12 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The Manor of Dungeon in Kent
+title: The Manor of the Dungeon in Kent
 email: info@basuhoward.org
-description: >- # this means to ignore newlines until "baseurl:"
-  Dungeon Manor, nestled in the historic heart of Kent,
-  England, stands as a testament to the rich tapestry of
-  British feudal history and cultural heritage.
+description: >-
+  A documentary history of the Manor of the Dungeon in Canterbury:
+  a real medieval manor, an unresolved modern succession, and an open archive.
 port: 4003
 
 permalink: pretty
@@ -38,6 +37,10 @@ collections:
     output: true
     permalink: /archives/:slug
     type: "archives"
+  research_notes:
+    output: true
+    permalink: /research/notes/:slug
+    type: "research_notes"
 
 defaults:
   -
@@ -53,6 +56,14 @@ defaults:
       layout: "archive-item"
       featured_image: /assets/img/archives-banner.webp
       archives: true
+  -
+    scope:
+      path: ""
+      type: "research_notes"
+    values:
+      layout: "research-note"
+      featured_image: /assets/img/history-banner.webp
+      research_note: true
 
 sass:
   sass_dir: assets/styles

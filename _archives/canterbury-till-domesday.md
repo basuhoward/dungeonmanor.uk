@@ -12,6 +12,10 @@ tags:
   - Durovernum
   - Christianity
   - medieval period
+period: historical
+source_type: Published antiquarian study
+evidence_status: supported
+provenance: Archaeological Journal 32 (1875), pages 369–393; public-domain scan preserved locally
 description: 'Godfrey-Faussett, T. G. "Canterbury Till Domesday." _Archaeological Journal_ 32, no. 1 (1875): 369-393'
 image: /assets/img/archives/canterbury-till-domesday.webp
 file_path: /assets/archives/canterbury-till-domesday.pdf

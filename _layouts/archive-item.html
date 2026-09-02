@@ -1,37 +1,49 @@
 ---
 layout: page
 ---
-<div class="row">
-  <div class="col-md-4 col-sm-6">
-    <div id="card" class="ml-auto mr-auto">
-      <div class="card-image text-center">
-        {% if page.image %}
-        <img class="img w-100" src="{{ page.image | relative_url }}" />
-        {% else %}
-        <i class="fa-solid fa-{{ page.type }} fa-10x"></i>
-        {% endif %}
-      </div>
-      <div class="card-body text-left mt-5">
-        <div class="card-description"><h6>{{ page.description | markdownify | remove: '<p>' | remove: '</p>' }}</h6></div>
-      </div>
+{% assign item_status = page.evidence_status | default: "supported" %}
+<article class="archive-record">
+  <div class="archive-record-header">
+    <div class="archive-record-preview">
+      {% if page.image %}
+      {% if page.file_path contains "://" %}{% assign preview_url = page.file_path %}{% else %}{% assign preview_url = page.file_path | relative_url %}{% endif %}
+      <a href="{{ preview_url }}" aria-label="Open {{ page.title }}">
+        <img src="{{ page.image | relative_url }}" alt="Preview of {{ page.title }}">
+      </a>
+      {% else %}
+      <span class="archive-icon archive-icon-large"><i class="fa-solid fa-{{ page.type }}" aria-hidden="true"></i></span>
+      {% endif %}
     </div>
-  </div>
-  <div class="col-md-8 col-sm-6">
-    <h2>{{ page.title }}</h2>
-    {% assign tags = page.tags | sort %}
-    {% for tag in tags %}
-    <span class="badge badge-pill badge-default">{{ tag }}</span>
-    {% endfor %}
-    <p></p>
-    <hr/>
-    <p>{{ content }}</p>
-    <div class="row">
-      <div class="col-md-7 offset-md-5 col-sm-8">
+    <div class="archive-record-intro">
+      <div class="archive-card-meta">
+        <span>{{ page.year }}</span>
+        <span class="status-badge status-{{ item_status }}">{{ item_status }}</span>
+      </div>
+      <h1>{{ page.title }}</h1>
+      <p class="archive-deck">{{ page.description | markdownify | strip_html }}</p>
+      {% if page.file_path %}
         {% if page.file_path contains "://" %}{% assign download_url = page.file_path %}{% else %}{% assign download_url = page.file_path | relative_url %}{% endif %}
-        <a href="{{ download_url }}" class="btn-link">
-          <button class="btn btn-danger btn-block btn-round">Download &nbsp;<i class="fa fa-chevron-down"></i></button>
-        </a>
-      </div>
+        <a href="{{ download_url }}" class="btn btn-danger btn-round archive-open-button">Open document <i class="fa fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+      {% endif %}
     </div>
   </div>
-</div>
+
+  <dl class="archive-provenance">
+    {% if page.source_type %}<div><dt>Source type</dt><dd>{{ page.source_type }}</dd></div>{% endif %}
+    {% if page.provenance %}<div><dt>Provenance</dt><dd>{{ page.provenance }}</dd></div>{% endif %}
+    <div><dt>Evidence status</dt><dd><span class="status-badge status-{{ item_status }}">{{ item_status }}</span></dd></div>
+    {% if page.license %}<div><dt>Reuse</dt><dd>{{ page.license }}</dd></div>{% endif %}
+  </dl>
+
+  <div class="archive-record-content">
+    {{ content }}
+  </div>
+
+  <footer class="archive-record-footer">
+    <div class="archive-card-tags" aria-label="Subjects">
+      {% assign tags = page.tags | sort %}
+      {% for tag in tags %}<span>{{ tag }}</span>{% endfor %}
+    </div>
+    <a href="{{ '/archives' | relative_url }}">← Return to the archive</a>
+  </footer>
+</article>

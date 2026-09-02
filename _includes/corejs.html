@@ -10,7 +10,7 @@
 <script src="{{ '/assets/js/plugins/moment.min.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/plugins/bootstrap-datetimepicker.js' | relative_url }}" type="text/javascript"></script>
 <!-- Control Center for Paper Kit: parallax effects, scripts for the example pages etc -->
-<script src="{{ '/assets/js/paper-kit.js?v=2.2.0" type="text/javascript"></script>
+<script src="{{ '/assets/js/paper-kit.js?v=2.2.0' | relative_url }}" type="text/javascript"></script>
 <!-- Plugin for Tags, full documentation here: https://github.com/bootstrap-tagsinput/bootstrap-tagsinputs  -->
 <script src="{{ '/assets/js/plugins/bootstrap-tagsinput.js' | relative_url }}"></script>
 <!--  Plugin for Select, full documentation here: http://silviomoreto.github.io/bootstrap-select -->
@@ -30,12 +30,5 @@
 </script>
 <script src="{{ '/assets/js/ukraine.js' | relative_url }}" defer></script>
 
-<script>
-  imagesLoaded( document.querySelector('#masonry-container'), function( instance ) {
-      var msnry = new Masonry('#masonry-container', {
-          itemSelector: '.item',
-          columnWidth: '.item',
-          percentPosition: true
-      });
-  });
-</script>
+{% if page.archives %}<script src="{{ '/assets/js/archive.js' | relative_url }}" defer></script>{% endif %}
+{% if page.map_room %}<script src="{{ '/assets/js/map-room.js' | relative_url }}" defer></script>{% endif %}

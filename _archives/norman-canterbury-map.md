@@ -5,6 +5,10 @@ slug: norman-canterbury-map
 type: map
 year: 1875
 tags: ["Godfrey-Faussett", "image", "map", "Norman period"]
+period: historical
+source_type: Antiquarian reconstruction
+evidence_status: supported
+provenance: Fold-out plate from T. G. Godfrey-Faussett's Canterbury Till Domesday (1875)
 description: "Fold-out plan of Norman Canterbury from Godfrey-Faussett's 1875 paper, showing the westward extension of the city walls, Canterbury Castle, Archbishop Lanfranc's palace, and other Norman additions. A nineteenth-century antiquarian reconstruction."
 image: /assets/archives/norman-canterbury.webp
 file_path: /assets/archives/norman-canterbury.webp
