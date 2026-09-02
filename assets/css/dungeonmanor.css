@@ -384,6 +384,10 @@ a:hover {
     margin-bottom: 1.25rem;
 }
 
+.profile-content .item.pull-right .card-head {
+    padding: 1.25rem 1.25rem 0;
+}
+
 .claim-summary {
     padding: 4.5rem 0;
     background: var(--dm-stone);
