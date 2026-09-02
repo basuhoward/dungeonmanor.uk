@@ -2,8 +2,8 @@
   <meta charset="utf-8" />
   <link rel="icon" type="image/svg" href="{{ site.data.settings.favicon | relative_url }}">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <title>{{ page.title }}</title>
-  <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1, shrink-to-fit=no' name='viewport' />
+  <title>{% if page.url == '/' %}{{ site.title }}{% else %}{{ page.title }} · {{ site.title }}{% endif %}</title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
 
   {% assign keywords = "" %}
   {% if page.keywords %}
@@ -17,46 +17,50 @@
   {% endif %}
   {% assign keywords = keywords | append: site.title %}
 
-  {% assign desc = page.content | markdownify | strip_html | strip_newlines | truncatewords: 30 %}
-  {% if page.subtitle %}
+  {% assign desc = page.description | default: page.subtitle | default: site.description %}
+  {% if page.subtitle and page.description == nil %}
     {% assign desc = page.subtitle | markdownify | strip_html | strip_newlines %}
   {% endif %}
+  {% assign social_image = page.heroImage | default: page.featured_image %}
+  {% if social_image %}{% assign social_image_url = social_image | absolute_url %}{% endif %}
 
-  <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+  <link rel="canonical" href="{{ page.url | absolute_url }}" />
 
   <meta name="title" content="{{ page.title }} - {{ site.title }}" />
-  <meta name="author" content="James" />
+  <meta name="author" content="James P. Howard, II" />
   <meta name="description" content="{{ desc }}" />
   <meta name="keywords" content="{{ keywords }}">
 
   <meta property="og:title" content="{{ page.title }}" />
   <meta property="og:locale" content="en_US" />
   <meta property="og:description" content="{{ desc }}" />
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-  <meta property="og:site_name" content="The Manor of Dungeon in Kent" />
-  <meta property="og:image" content="{{ page.featured_image | relative_url }}" />
-  <meta property="og:type" content="article" />
+  <meta property="og:url" content="{{ page.url | absolute_url }}" />
+  <meta property="og:site_name" content="{{ site.title }}" />
+  {% if social_image_url %}<meta property="og:image" content="{{ social_image_url }}" />{% endif %}
+  <meta property="og:type" content="{% if page.url == '/' %}website{% else %}article{% endif %}" />
 
   <meta name="twitter:card" content="summary_large_image" />
-  {% if page.heroImage %}
-    <meta property="twitter:image" content="{{ page.heroImage | relative_url }}" />
-    <meta property="og:image" content="{{ page.heroImage | relative_url }}" />
-  {% endif %}
-  {% if page.featured_image %}
-    <meta property="twitter:image" content="{{ page.featured_image | relative_url }}" />
-    <meta property="og:image" content="{{ page.featured_image | relative_url }}" />
-  {% endif %}
+  {% if social_image_url %}<meta property="twitter:image" content="{{ social_image_url }}" />{% endif %}
 
   <meta property="twitter:title" content="{{ page.title }}" />
   <meta name="twitter:site" content="@k3jph" />
   <meta name="twitter:creator" content="@k3jph" />
 
   <!--     Fonts and icons     -->
-  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css?family=Karla:400,500,600,700%7CMontserrat:200,400,600,700" rel="stylesheet" />
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
   <!-- CSS Files -->
   <link href="{{ 'assets/css/bootstrap.min.css' | relative_url }}" rel="stylesheet" />
   <link href="{{ 'assets/css/paper-kit.css?v=2.2.0' | relative_url }}" rel="stylesheet" />
   <link href="{{ '/assets/css/dungeonmanor.css' | relative_url }}" rel="stylesheet" />
   <link href="{{ '/assets/css/gdpr-cookie.css' | relative_url }}" rel="stylesheet" />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": {{ site.title | jsonify }},
+    "url": {{ site.url | jsonify }},
+    "description": {{ site.description | jsonify }}
+  }
+  </script>
 </head>

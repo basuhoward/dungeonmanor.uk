@@ -95,8 +95,9 @@ The Manor of the Dungeon, also known historically as the Manor of Dane John,
 is a historic estate located in the parish of St. Mary Bredin in Canterbury,
 Kent. It is distinct from the adjacent public park, though the two share a
 common history: the park occupies ground that was once part of the manor
-estate. The manor as a legal entity has a documented history spanning from
-at least the twelfth century to the present.
+estate. The manor as a legal entity has a documented history beginning by
+at least the twelfth century. Its later succession is not yet continuous in
+the known record.
 
 ### How old is the Manor of the Dungeon?
 
@@ -166,31 +167,32 @@ page lists the principal scholarly sources.
 
 ---
 
-## About the Lord of the Dungeon
+## About the Modern Claim
 
-### Who currently holds the title of Lord of the Manor of the Dungeon?
+### Who is behind this site, and what does he claim?
 
-The title is held by James P. Howard, II, a data scientist and
-mathematician residing in Maryland. Beyond his professional life, Howard
-has longstanding interests in history, languages, and the preservation
-and exploration of historical narratives. His stewardship of this site
-reflects his view that a manorial title, whatever its legal status, carries
-with it an obligation to the history of the place it names.
+James P. Howard, II, a data scientist and mathematician residing in Maryland,
+holds the instruments executed by Manorial Title Register Limited on 11 March
+2024 and claims the designation described in them. He does not claim that the
+papers presently prove a continuous succession from the historical lords. This
+site distinguishes the documented transaction from the unresolved ownership
+question.
 
 ### Is the acquisition of this title legitimate?
 
-The honest answer is: complicated. The process by which manorial titles
-are bought and sold in England is itself somewhat contested. The seller,
-Manorial Title Register Limited, conveyed what they describe as a
-possessory incorporeal title, grounded in principles of constructive
-possession under English property law. The full instruments of conveyance
-are available in the [Archives](/archives) for anyone who wishes to read
-them carefully and form their own view.
+The honest answer is: it is a documented claim, not a demonstrated chain of
+title. Manorial Title Register Limited conveyed what it describes as a
+possessory incorporeal title, grounded in its reading of constructive
+possession under English property law. The full instruments are available in
+the [Archives](/archives), but no root connecting the seller to the last
+plausible Lee-Warner holder has been found.
 
 The FAQ for this site has always been candid about the legal ambiguities
-involved. The title was purchased because "Lord of the Dungeon" is a
-remarkable phrase, and because that phrase came with an obligation to
-build something worthwhile around it. This site is that something.
+involved. The documents were purchased because “Lord of the Dungeon” is a
+remarkable phrase, and because that phrase came with an opportunity to build
+something worthwhile around it. This site is that something. The fuller
+[evidence assessment](/state-of-the-claim) identifies exactly which parts of
+the case are established, inferred, documented, open, or unestablished.
 
 ### Are people required to refer to you as "Lord" in light of this title?
 
@@ -203,9 +205,10 @@ Coats of arms are granted to individuals, not to manors or their titles.
 The arms borne by Sir James Hales, preserved in the archives of this site,
 belonged personally to him and to his heraldic descendants, not to the
 manor as a property. Any arms associated with previous lords of the Dungeon
-belong to those lords' descendants, not to the current holder of the title.
+belong to those lords' descendants, not to a modern purchaser of title
+documents.
 
-### How can I reach James Howard, Lord of the Dungeon?
+### How can I reach James Howard?
 
 For correspondence with James Howard, please proceed to
 [his contact page](https://jameshoward.us/contact-me/).
@@ -219,8 +222,8 @@ For correspondence with James Howard, please proceed to
 The archives currently include T. G. Godfrey-Faussett's 1875 paper
 "Canterbury Till Domesday" (the foundational scholarly study of Canterbury's
 pre-Norman history); Charles Cotton's 1929 study of the Saxon Cathedral;
-the plan of Durovernum (Roman Canterbury); and the conveyance documents
-for the current lordship. Archive entries are also maintained for Plowden's
+the plan of Durovernum (Roman Canterbury); and the complete set of documents
+supplied in the 2024 transaction. Archive entries are also maintained for Plowden's
 _Commentaries_ (the primary source for Hales v. Petit), Hasted's _History
 of Kent_ (the primary source for the Chiche family), and Somner's
 _Antiquities of Canterbury_. The archive is actively being expanded.

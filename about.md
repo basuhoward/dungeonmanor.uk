@@ -6,8 +6,8 @@ featured_image: /assets/img/about-banner.webp
 ---
 
 The Manor of the Dungeon is a historic estate in the parish of St. Mary
-Bredin in Canterbury, Kent, with a documented history stretching from the
-twelfth century to the present. Its common name derives from the Old French
+Bredin in Canterbury, Kent, with a documented history beginning in the
+twelfth century. Its common name derives from the Old French
 _donjon_, meaning a fortified keep, and it takes its full formal name from
 the parish church that has stood beside it for eight centuries. The mound
 at the center of what is now Dane John Gardens, which gives the estate its
@@ -36,34 +36,38 @@ Simmons in 1790, and the Victorian improvements that gave the gardens their
 present character.
 
 The [Lords of the Manor](/lords-of-the-manor) page documents the known
-lineage of title holders from the Chiche family in the twelfth century to
-the present, honestly acknowledging the gaps in the record where they exist.
+succession from the Chiche family, marks the later Lee-Warner entries as
+presumptive, and stops where the documentary chain stops. The separate
+[State of the Claim](/state-of-the-claim) page tests each modern proposition
+against the evidence currently available.
 
 The [archives](/archives) section collects primary sources and historical
 documents relating to the manor, including the foundational antiquarian
 scholarship of Godfrey-Faussett (1875), Hasted (1798), and Somner (1640);
 the legal documents from Hales v. Petit; the period maps of Canterbury; and
-the instruments of conveyance for the current lordship.
+the complete file of instruments supplied in the 2024 transaction.
 
 The [bibliography](/bibliography) lists the scholarly sources underlying
 the site's historical content and provides a starting point for those who
 wish to pursue the history further.
 
-## The Lord of the Dungeon
+## The Modern Claim
 
-The title of Lord of the Manor of the Dungeon is currently held by
 [James P. Howard, II](https://jameshoward.us), a data scientist and
-mathematician residing in Maryland. Howard holds the title by legal
-conveyance dated 11 March 2024, the instruments of which are available
-in the archives. He is candid about the title's legal status: manorial
-lordships sold through commercial title registries occupy an ambiguous
-position in English property law, and the site's FAQ addresses that
-ambiguity directly rather than papering over it.
+mathematician residing in Maryland, purchased documents from Manorial Title
+Register Limited on 11 March 2024. Those documents purport to assign a
+possessory title styled Lord of the Manor of the Dungeon. They are available
+in full in the archive.
 
-Howard's interest in the manor is genuinely historical. The title "Lord
-of the Dungeon" is remarkable enough to attract attention; what that
-attention finds here is, he hopes, a scholarly resource worthy of the
-place's history.
+The historical lordship is real; the connection between it and the seller is
+not established by the documents reviewed so far. No conveyance from the last
+plausible historical holder—or any later holder—to the seller has been found.
+The site therefore treats Howard as the holder of the 2024 instruments and a
+claimant to the historical lordship, not as the endpoint of a proved pedigree.
+
+The phrase “Lord of the Dungeon” was remarkable enough to attract attention;
+the purpose of this site is to make that attention worthwhile. The uncertainty
+is not hidden because investigating it is now part of the project.
 
 ## Contributing
 

@@ -4,6 +4,10 @@ title: "Plowden's Commentaries"
 slug: plowdens-commentaries
 year: 1571
 tags: ["Common Law", "Hales v. Petit", "Legal History", "Primary Source", "Shakespeare", "Tudor Period"]
+period: historical
+source_type: Published law report
+evidence_status: established
+provenance: Edmund Plowden's 1571 report of Hales v. Petit (1 Plowd. 253); public-domain scan preserved locally
 description: "Edmund Plowden's celebrated law reports, containing the full report of Hales v. Petit (1 Plowd. 253), the landmark case arising from the death of Sir James Hales at the Dungeon and identified as a source for the gravediggers' scene in Shakespeare's Hamlet."
 image: /assets/img/archives/plowdens-commentaries.webp
 file_path: /assets/archives/plowdens-commentaries.pdf

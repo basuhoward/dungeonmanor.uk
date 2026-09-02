@@ -8,16 +8,26 @@ main_menu_settings:
       url: /about
     - title: History
       url: /history
-    - title: Lords of the Manor
+    - title: Succession
       url: /lords-of-the-manor
+    - title: State of the Claim
+      url: /state-of-the-claim
     - title: Archives
       url: /archives
-    - title: Gardens
-      url: /gardens
-    - title: FAQ
-      url: /faq
-    - title: Bibliography
-      url: /bibliography
+    - title: Research
+      submenu_items:
+        - title: Research ledger
+          url: /research
+        - title: Bibliography
+          url: /bibliography
+    - title: Explore
+      submenu_items:
+        - title: Map room
+          url: /map-room
+        - title: Dane John Gardens
+          url: /gardens
+        - title: FAQ
+          url: /faq
 
 footer_menu_settings:
   menu_items:

@@ -5,6 +5,10 @@ slug: irelands-englands-topographer
 type: book
 year: 1828
 tags: ["Dane John Farm", "Kent History", "Lee Warner", "Manorial History", "Primary Source", "Topography"]
+period: historical
+source_type: Published county history
+evidence_status: supported
+provenance: W. H. Ireland, England's Topographer (1828); public-domain scan via Internet Archive
 description: "W. H. Ireland's county history of Kent, updating Hasted to the late 1820s and recording that the manorial estate of the Dungeon was by then 'now known by the name of Deanjohn Farm,' still in Lee Warner hands."
 file_path: https://archive.org/download/bib_fict_1036454_1/bib_fict_1036454_1.pdf
 ---

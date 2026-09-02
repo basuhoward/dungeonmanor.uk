@@ -5,6 +5,10 @@ slug: hasted-history-of-kent
 type: book
 year: 1800
 tags: ["Brent", "Boteler", "Chiche Family", "Hales Family", "Kent History", "Manorial History", "Primary Source", "Sheldon"]
+period: historical
+source_type: Published county history
+evidence_status: supported
+provenance: Edward Hasted, The History and Topographical Survey of the County of Kent, volume 11 (1800); public-domain scan preserved locally
 description: "Edward Hasted's survey of Kent provides the principal documented narrative of the Manor of the Dungeon from the Chiche family through Thomas Lee Warner's demolition of the mansion in 1752."
 image: /assets/img/archives/hasted-history-of-kent.webp
 file_path: /assets/archives/hasted-history-of-kent.pdf

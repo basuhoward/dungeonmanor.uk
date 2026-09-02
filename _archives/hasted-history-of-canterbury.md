@@ -5,6 +5,10 @@ slug: hasted-history-of-canterbury
 type: book
 year: 1801
 tags: ["Advowson", "Canterbury History", "Hales Family", "Hasted", "Manorial History", "Primary Source", "St. Mary Bredin"]
+period: historical
+source_type: Published county history
+evidence_status: supported
+provenance: Edward Hasted, The History of the Ancient and Metropolitical City of Canterbury (1801); public-domain scan via Internet Archive
 description: "Edward Hasted's separate two-volume history of Canterbury, containing the passage establishing that the advowson of St. Mary Bredin descended with the Manor of the Dungeon, the key to tracing the lordship through the nineteenth century."
 file_path: https://archive.org/download/historyofancient01hast/historyofancient01hast.pdf
 ---

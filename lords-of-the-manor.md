@@ -1,24 +1,39 @@
 ---
 layout: page
 title: Lords of the Manor of the Dungeon
-subtitle: A Documented Lineage
+subtitle: The documented succession—and where the record stops
 featured_image: /assets/img/history-banner.webp
 ---
 
 The lordship of a manor in English law was a form of property, and
 like any form of property it passed from hand to hand through inheritance,
 sale, forfeiture, and the accumulated accidents of time. What follows
-is the most complete account currently assemblable of those who held the
-lordship of the Manor of the Dungeon in Canterbury, from the earliest
-documented holders to the present. Where the record is clear, it is stated
-as such. Where there are gaps, those gaps are acknowledged.
+is the most complete account currently assemblable of those who held, or
+probably succeeded to, the lordship of the Manor of the Dungeon in Canterbury.
+It is not a continuous pedigree to the present. Where the record is clear,
+it is stated as such; where succession is inferred, that is marked; and where
+the chain breaks, it stops.
 
 The manor takes its full formal name from its location in the parish of
 St. Mary Bredin in the city of Canterbury, in the County of Kent. The
 mound from which it takes its common name predates the documented lordship
 by what may be a thousand years or more.
 
+<div class="evidence-notice evidence-notice-open">
+  <p class="eyebrow">Essential distinction</p>
+  <p>The historical manor is well documented. The modern succession is not.
+  The latest plausible heir identified in the present research died in 1944;
+  no instrument connecting his estate to the 2024 seller has been found.</p>
+  <a href="{{ '/state-of-the-claim' | relative_url }}">See the evidence assessment →</a>
+</div>
+
 ---
+
+## Documented Historical Succession
+
+The entries in this section rest on named historical accounts, archival
+records, or transactions identified in those sources. That does not make
+every date equally certain, but it gives each entry an affirmative basis.
 
 ## Ernaldus de Chich
 
@@ -195,9 +210,15 @@ vicar's memorial.
 
 ---
 
-## Robert Henry Lee-Warner
+## Supported Later Succession
 
-**Period:** 1858-1895 (presumptive)
+The following two entries are probable successions within the Lee-Warner
+family. They are not supported by a located conveyance or devise of the
+lordship itself and are therefore marked **presumptive**.
+
+### Robert Henry Lee-Warner
+
+**Period:** 1858–1895 (presumptive)
 
 Of Tyberton Court, recorded there by the censuses of 1881 and 1891 and
 listed among the landowners of England in Bateman's survey of 1878. He
@@ -207,9 +228,9 @@ therefore its presumptive lord for this period.
 
 ---
 
-## Major Chandos Brydges Lee-Warner
+### Major Chandos Brydges Lee-Warner
 
-**Period:** 1895-1944 (presumptive)
+**Period:** 1895–1944 (presumptive)
 
 The last of the Lee-Warners of Tyberton Court (1863-1944). He married
 Lady Dorothea Augusta FitzClarence, a descendant of King William IV, in
@@ -221,7 +242,7 @@ his estate and to his descendants.
 
 ---
 
-## The Lordship After 1944: An Open Question
+## The Lordship After 1944: An Open Question {#the-open-succession}
 
 **Period:** 1944 to the present
 
@@ -240,15 +261,21 @@ authority ever since.
 
 ---
 
-## James Patrick Howard, II
+## The 2024 Possessory-Title Instruments
 
-**From:** 11 March 2024
+**Date:** 11 March 2024
 
-By conveyance from Manorial Title Register Limited, James Patrick Howard, II,
-of Columbia, Maryland, acquired the incorporeal possessory title of Lord of
-the Manor of the Dungeon in the Parish of St. Mary Bredin in the County of
-Kent. The relevant instruments of conveyance are preserved in the archives of
-this site.
+Manorial Title Register Limited executed documents assigning to James P.
+Howard, II, for £175, what the company described as the incorporeal
+possessory title of Lord of the Manor of the Dungeon in the parish of St. Mary
+Bredin, Kent. Those instruments establish the terms of the transaction and
+the assertions made by the seller. They do **not**, by themselves, supply the
+missing chain from the Lee-Warner family or prove that the seller had acquired
+the historical lordship.
+
+Howard uses the phrase in connection with this documentary project, while
+making the instruments and their limitation public. The complete 2024 file is
+available in the [archive]({{ '/archives?period=modern' | relative_url }}).
 
 ---
 
@@ -265,7 +292,8 @@ Great Britain and Ireland_ (1878), census returns, and archival
 catalogues, principally the leases of Donjon Farm among the Tyberton
 Court muniments at the Herefordshire Archive and Records Centre
 (A81/II/237-8) and the Lee Warner papers at the Norfolk Record Office.
-Entries marked presumptive rest on the absence of any recorded
-alienation rather than on a positive document, and are stated as such.
+Entries marked presumptive rest on family succession and the absence of any
+located alienation rather than on a positive instrument of transfer, and are
+stated as such.
 Anyone with documentary evidence bearing on the manor's descent,
 particularly after 1858, is invited to make contact through this site.

@@ -11,22 +11,27 @@ items:
     call_to_action_link: /history
     call_to_action_name: History
   - title: Lords of the Manor
-    subtitle: The documented lineage of lords from the Chiche family to the present
+    subtitle: The documented succession, the presumptive heirs, and the break in the record after 1944
     icon: fa-crown
     call_to_action_link: /lords-of-the-manor
     call_to_action_name: Lords of the Manor
   - title: Archives
-    subtitle: Primary sources and historical documents relating to the Manor
+    subtitle: Read the historical sources and the modern instruments, with provenance and evidential limits
     icon: fa-box-archive
     call_to_action_link: /archives
     call_to_action_name: Archives
-  - title: Dane John Gardens
-    subtitle: The modern public park that stands on the former manor grounds
-    icon: fa-leaf
-    call_to_action_link: /gardens
-    call_to_action_name: The Gardens
-  - title: FAQ
-    subtitle: Frequently asked questions about the Manor, its history, and its Lord
-    icon: fa-circle-question
-    call_to_action_link: /faq
-    call_to_action_name: FAQ
+  - title: State of the Claim
+    subtitle: A proposition-by-proposition account of what is established, supported, asserted, or still unknown
+    icon: fa-scale-balanced
+    call_to_action_link: /state-of-the-claim
+    call_to_action_name: State of the Claim
+  - title: Map Room
+    subtitle: Compare three antiquarian reconstructions of Roman, Saxon, and Norman Canterbury
+    icon: fa-map
+    call_to_action_link: /map-room
+    call_to_action_name: Map Room
+  - title: Research Ledger
+    subtitle: Follow the open questions, source register, and dated findings behind the site
+    icon: fa-magnifying-glass
+    call_to_action_link: /research
+    call_to_action_name: Research

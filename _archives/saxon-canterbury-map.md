@@ -5,6 +5,10 @@ slug: saxon-canterbury-map
 type: map
 year: 1875
 tags: ["Cantwarabyrig", "Godfrey-Faussett", "image", "map", "Saxon period"]
+period: historical
+source_type: Antiquarian reconstruction
+evidence_status: supported
+provenance: Fold-out plate from T. G. Godfrey-Faussett's Canterbury Till Domesday (1875)
 description: "Fold-out plan of Saxon Canterbury (Cantwarabyrig) from Godfrey-Faussett's 1875 paper, showing the northward extension of the Roman city, Ethelbert's palace, the Saxon churches, and St. Augustine's Abbey. A nineteenth-century antiquarian reconstruction."
 image: /assets/archives/saxon-canterbury.webp
 file_path: /assets/archives/saxon-canterbury.webp

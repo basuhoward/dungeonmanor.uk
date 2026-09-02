@@ -1,0 +1,152 @@
+last_reviewed: 2026-09-02
+
+summary: >-
+  The historic Manor of the Dungeon is well documented. The route by which
+  its genuine incorporeal lordship might have reached the issuer of the 2024
+  instruments is not. Those instruments are preserved here as evidence of
+  the transaction that occurred, not as independent proof of the missing
+  chain of title.
+
+statuses:
+  - id: established
+    label: Established
+    definition: Supported by direct or convergent public historical evidence.
+  - id: supported
+    label: Supported inference
+    definition: More likely than not on the evidence reviewed, but not proved by a complete instrument.
+  - id: documented
+    label: Documented act
+    definition: The document or transaction exists; its larger legal effect is a separate question.
+  - id: open
+    label: Open question
+    definition: The available record does not presently establish an answer.
+  - id: unestablished
+    label: Unestablished
+    definition: Asserted in the modern instruments, but not independently demonstrated by the public evidence located.
+
+propositions:
+  - id: historic-manor
+    proposition: A historical Manor of the Dungeon existed in Canterbury.
+    status: established
+    finding: >-
+      The manor appears in the published historical record, with named holders,
+      a mansion, lands, and an advowson associated with St Mary Bredin.
+    evidence:
+      - label: Hasted, History and Topographical Survey of Kent
+        url: /archives/hasted-history-of-kent/
+      - label: Historic England, Dane John Gardens list entry 1001360
+        url: https://historicengland.org.uk/listing/the-list/list-entry/1001360
+    limitation: This establishes the historical manor, not the identity of its present owner.
+
+  - id: early-descent
+    proposition: The descent from the Chiche family through the Hales, Sheldon, and Lee families is historically documented.
+    status: established
+    finding: >-
+      Hasted supplies a detailed descent through the eighteenth century, with
+      supporting civic, ecclesiastical, legal, and topographical records.
+    evidence:
+      - label: Hasted, History and Topographical Survey of Kent
+        url: /archives/hasted-history-of-kent/
+      - label: Plowden's Commentaries
+        url: /archives/plowdens-commentaries/
+    limitation: Hasted is an antiquarian source and should be tested against surviving original records where possible.
+
+  - id: nineteenth-century
+    proposition: The lordship followed the Lee-Warner family into the nineteenth century.
+    status: supported
+    finding: >-
+      Hasted ties the advowson of St Mary Bredin to the owners of the manor;
+      later patronage, leases of Donjon Farm, and topographical accounts point
+      toward the Lee-Warner branch at Tyberton Court.
+    evidence:
+      - label: Hasted, History of Canterbury
+        url: /archives/hasted-history-of-canterbury/
+      - label: Ireland, England's Topographer
+        url: /archives/irelands-englands-topographer/
+      - label: Bateman, Great Landowners
+        url: /archives/batemans-great-landowners/
+    limitation: No complete nineteenth-century conveyancing chain has yet been assembled.
+
+  - id: final-lee-warners
+    proposition: Robert Henry Lee-Warner and Major Chandos Brydges Lee-Warner were the final historical holders before 1944.
+    status: supported
+    finding: >-
+      They are the best presently identified candidates in the family line,
+      and no alienation during their lifetimes has been located in the sources reviewed.
+    evidence:
+      - label: The Lee Warners and the Lost Lordship
+        url: /history/lee-warner-era/
+      - label: Bateman, Great Landowners
+        url: /archives/batemans-great-landowners/
+    limitation: This is a presumptive succession based partly on the absence of a discovered alienation.
+
+  - id: post-1944
+    proposition: The destination of the genuine lordship after 1944 is known.
+    status: open
+    finding: >-
+      No sale, devise, assent, or other disposition after the Lee-Warner period
+      has yet been located. Several possible routes remain under investigation.
+    evidence:
+      - label: Lords of the Manor — the open succession
+        url: /lords-of-the-manor/#the-open-succession
+      - label: Research agenda
+        url: /research/
+    limitation: An undiscovered private deed or probate instrument could materially change this finding.
+
+  - id: instruments-2024
+    proposition: Manorial Title Register Limited executed instruments in favour of James Patrick Howard II on 11 March 2024.
+    status: documented
+    finding: >-
+      The conveyance, deed of creation, statement, certificate, and verification
+      letter are preserved in the archive. Their existence and wording can be examined directly.
+    evidence:
+      - label: Conveyance Deed Possessory
+        url: /archives/conveyance-deed-possessory/
+      - label: Deed of Creation of a Possessory Title
+        url: /archives/deed-of-creation-of-a-possessory-title/
+      - label: Statement of Truth
+        url: /archives/statement-of-truth/
+    limitation: A document proves that its maker made the recorded assertions; it does not necessarily prove those assertions.
+
+  - id: vendor-root
+    proposition: Manorial Title Register Limited had a demonstrated chain from the last plausible historical holder.
+    status: unestablished
+    finding: >-
+      No instrument connecting the Lee-Warner estate, the later owner of the
+      lordship, or the historical manor to Manorial Title Register Limited has been located.
+    evidence:
+      - label: Statement of Truth issued by the vendor
+        url: /archives/statement-of-truth/
+      - label: HM Land Registry Practice Guide 22
+        url: https://www.gov.uk/government/publications/manors/practice-guide-22-manors
+    limitation: This is a conclusion about the public evidence presently available, not a judicial determination.
+
+  - id: current-ownership
+    proposition: The 2024 instruments establish ownership of the historical lordship itself.
+    status: unestablished
+    finding: >-
+      The instruments expressly transfer what their issuer calls a possessory
+      title and a right to use its name. Without the missing root of title or an
+      authoritative determination of the constructive-possession theory, they do
+      not independently establish succession to the historical incorporeal hereditament.
+    evidence:
+      - label: Conveyance Deed Possessory
+        url: /archives/conveyance-deed-possessory/
+      - label: Land Registration Act 2002 explanatory notes
+        url: https://www.legislation.gov.uk/ukpga/2002/9/notes/division/4/12/1
+    limitation: The instruments remain historically relevant as records of the modern claim and the project they prompted.
+
+official_context:
+  title: What English public sources establish
+  body: >-
+    HM Land Registry distinguishes the lordship title, manorial land, and
+    manorial rights; the three may exist separately. It also explains that most
+    lordship titles were never registered and that first registration of a
+    lordship has not been possible since 13 October 2003. The official guidance
+    confirms the legal category. It does not validate any particular unregistered
+    claimant or private register.
+  sources:
+    - label: HM Land Registry Practice Guide 22 — Manors
+      url: https://www.gov.uk/government/publications/manors/practice-guide-22-manors
+    - label: Land Registration Act 2002 explanatory notes
+      url: https://www.legislation.gov.uk/ukpga/2002/9/notes/division/4/12/1

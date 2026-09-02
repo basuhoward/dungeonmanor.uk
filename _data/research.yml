@@ -1,0 +1,118 @@
+last_reviewed: 2026-09-02
+
+principles:
+  - State what the evidence establishes, not what we wish it established.
+  - Distinguish primary records, later historical accounts, inference, and modern claimant-issued documents.
+  - Record gaps and unsuccessful lines of inquiry because negative results prevent duplicated work.
+  - Revise conclusions when better evidence appears and preserve a dated account of what changed.
+
+questions:
+  - id: post-1944-succession
+    title: Where did the genuine lordship pass after 1944?
+    status: active
+    status_label: Active investigation
+    known: >-
+      Major Chandos Brydges Lee-Warner died in 1944 and is the last plausible
+      historical holder presently identified. No later disposition has been located.
+    needed: >-
+      Probate and residuary-estate records, conveyances involving Dane John Farm,
+      family papers, and any deed by which the incorporeal lordship was separately assigned.
+
+  - id: tyberton-branch
+    title: Can the nineteenth-century Tyberton succession be proved instrument by instrument?
+    status: active
+    status_label: Active investigation
+    known: >-
+      Published accounts, the advowson, and catalogued Donjon Farm leases point
+      to the Reverend Daniel Henry Lee Warner and his descendants.
+    needed: >-
+      Inspection and transcription of the relevant Tyberton Court muniments,
+      wills, assents, marriage settlements, and property schedules.
+
+  - id: medieval-gap
+    title: What fills the gaps in the medieval and early Tudor descent?
+    status: open
+    status_label: Source search
+    known: >-
+      The Chiche tenure and later Hales tenure are reported by Hasted, but several
+      individual transitions are compressed or absent from the printed narrative.
+    needed: >-
+      Canterbury Cathedral Archives, civic rolls, St Mary Bredin material,
+      inquisitions post mortem, feet of fines, and surviving court rolls.
+
+  - id: manor-boundaries
+    title: What were the manor's boundaries at different dates?
+    status: open
+    status_label: Reconstruction
+    known: >-
+      The mansion stood outside the city wall, the mound lay inside it, and land
+      associated with the estate was later known as Dane John or Donjon Farm.
+    needed: >-
+      Georeferenced historic maps, terriers, rentals, rate books, valuation plans,
+      and deeds containing parcels or abuttals.
+
+  - id: possessory-theory
+    title: What legal effect, if any, does the 2024 possessory-title theory have?
+    status: evaluated
+    status_label: Evidence evaluated
+    known: >-
+      The issuer relies on constructive possession and the possession of documents.
+      Public guidance confirms that genuine manorial lordships are incorporeal property,
+      but no authority located establishes that an unrelated party can create ownership
+      of a particular historical lordship through the process described.
+    needed: >-
+      A reported judgment, authoritative practitioner analysis, or complete historical
+      root of title supporting the application of that theory to this lordship.
+
+source_register:
+  - source: Edward Hasted, History and Topographical Survey of Kent, vol. 11
+    date: 1800
+    status: reviewed
+    status_label: Reviewed
+    contribution: Principal printed descent of the manor from the Chiche family through the Lee Warners.
+    url: /archives/hasted-history-of-kent/
+
+  - source: Edward Hasted, History of Canterbury, vol. 1
+    date: 1801
+    status: reviewed
+    status_label: Reviewed
+    contribution: Describes the site and connects the advowson of St Mary Bredin with the owners of the manor.
+    url: /archives/hasted-history-of-canterbury/
+
+  - source: T. G. Godfrey-Faussett, Canterbury Till Domesday
+    date: 1875
+    status: reviewed
+    status_label: Reviewed
+    contribution: Period plans and an influential nineteenth-century reconstruction of Canterbury's early topography.
+    url: /archives/canterbury-till-domesday/
+
+  - source: W. H. Ireland, England's Topographer
+    date: 1828
+    status: reviewed
+    status_label: Reviewed
+    contribution: Carries the published account into the nineteenth century and identifies Deanjohn Farm.
+    url: /archives/irelands-englands-topographer/
+
+  - source: Tyberton Court muniments, HARC A81/II/237-8
+    date: 1695 and 1814
+    status: lead
+    status_label: Catalogue lead
+    contribution: Catalogued leases of Donjon Farm that may document the estate's route through the Tyberton branch.
+
+  - source: Lee Warner papers, Norfolk Record Office, Leew Box 4 No. 1
+    date: 1580–1721
+    status: lead
+    status_label: Catalogue lead
+    contribution: Catalogued list of transactions concerning the Manor of Dongon or Dungeon.
+
+  - source: Major Chandos Brydges Lee-Warner probate and residuary estate
+    date: 1944
+    status: next
+    status_label: Next inquiry
+    contribution: May identify the heir or devisee through whom the genuine lordship passed after 1944.
+
+  - source: Finance Act 1910 valuation records, The National Archives, IR 58
+    date: 1909–1915
+    status: next
+    status_label: Next inquiry
+    contribution: May identify the contemporary owner and parcel history of Dane John Farm.

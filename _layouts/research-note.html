@@ -1,0 +1,15 @@
+---
+layout: page
+---
+<article class="research-note">
+  <p class="research-note__meta">
+    Research note · {{ page.date | date: "%e %B %Y" }}
+    {% if page.revised %} · Revised {{ page.revised | date: "%e %B %Y" }}{% endif %}
+  </p>
+  <p class="research-note__summary">{{ page.summary }}</p>
+  {{ content }}
+  <div class="next-step-panel">
+    <a class="btn btn-outline-danger btn-round" href="{{ '/research/' | relative_url }}">Return to the research ledger</a>
+    <a class="btn btn-danger btn-round" href="{{ '/state-of-the-claim/' | relative_url }}">Review the claim</a>
+  </div>
+</article>
