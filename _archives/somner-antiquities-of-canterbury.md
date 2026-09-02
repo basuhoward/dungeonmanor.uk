@@ -1,14 +1,18 @@
 ---
-display: false
 layout: archive-item
 title: "The Antiquities of Canterbury"
 slug: somner-antiquities-of-canterbury
 type: book
 year: 1640
 tags: ["Antiquarian", "Canterbury History", "Primary Source", "Roman period", "Saxon period"]
+period: historical
+source_type: Published antiquarian history
+evidence_status: supported
+provenance: William Somner, The Antiquities of Canterbury (1640); second edition revised and enlarged by Nicholas Battely (1703); public-domain scan via Internet Archive
+license: Public domain
 description: "William Somner's 1640 survey of Canterbury, the first systematic antiquarian study of the city, and the 1703 Battely edition that remains the standard scholarly reference, both drawn on by Godfrey-Faussett in his analysis of the Dane John mounds."
 image: /assets/img/archives/somner-antiquities-of-canterbury.webp
-file_path: /assets/archives/somner-antiquities-of-canterbury.pdf
+file_path: https://archive.org/download/bim_eighteenth-century_the-antiquities-of-cante_somner-william_1703/bim_eighteenth-century_the-antiquities-of-cante_somner-william_1703.pdf
 ---
 
 William Somner (1598-1669) was a Canterbury-born scholar who served as
@@ -33,4 +37,8 @@ on Somner and Battely as foundational references.
 
 Somner, William. _The Antiquities of Canterbury_. London, 1640. Second
 edition edited by Nicholas Battely. London, 1703. Both editions are in the
-public domain and available through the Internet Archive.
+public domain. The document link above opens the Internet Archive scan of
+the revised and enlarged 1703 edition; the archive image is taken from that
+edition's engraved prospect of Canterbury.
+
+[View the complete Internet Archive record](https://archive.org/details/bim_eighteenth-century_the-antiquities-of-cante_somner-william_1703).
