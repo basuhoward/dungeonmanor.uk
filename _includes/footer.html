@@ -1,21 +1,17 @@
 <footer class="footer footer-white my-5">
   <div class="container">
-    <div class="row row-grid align-items-center">
-      <div class="col-lg-6 col-md-6 col-xs-12 col-12 mb-2 my-auto">
-        <div class="row text-lg-left text-lg-left text-md-center text-xs-center my-auto">
-          <div class="col-lg-2 col-md-2 col-xs-2 col-2">
-            <a href="https://jameshoward.us">
-              {% svg "/assets/img/identity/jh-badge-1x1.svg" class="basu-howard-banner" %}
-            </a>
-          </div>
-          <div class="col-lg-10 col-md-10 col-xs-10 col-10 pl-0 ml-n3 my-auto">
-            <h6 class="mb-0">dungeonmanor.uk</h6>
-            <h6 class="mb-0">A website of <a href="https://jameshoward.us">James Howard</a></h6>
-          </div>
+    <div class="dm-footer-grid">
+      <div class="dm-footer-brand">
+        <a class="dm-footer-mark" href="https://jameshoward.us" aria-label="James Howard's website">
+          {% svg "/assets/img/identity/jh-badge-1x1.svg" class="basu-howard-banner" %}
+        </a>
+        <div class="dm-footer-brand-copy">
+          <p class="dm-footer-site">dungeonmanor.uk</p>
+          <p class="dm-footer-credit">A website of <a href="https://jameshoward.us">James Howard</a></p>
         </div>
       </div>
-      <div class="col-lg-6 col-md-6 col-xs-12 col-12 text-lg-right text-lg-right text-md-center text-xs-center text-center my-auto">
-        <nav class="footer-nav text-lg-right text-lg-right text-md-center text-xs-center text-center">
+      <div class="dm-footer-meta">
+        <nav class="footer-nav" aria-label="Footer navigation">
           <ul class="text-lg-right text-md-center text-xs-center text-center">
             {% for item in site.data.settings.footer_menu_settings.menu_items %}
             {% unless item.submenu_items %}
@@ -42,7 +38,10 @@
             {% endfor %}
           </ul>
         </nav>
-        <h6>Copyright &copy; 2023-{{ 'now' | date: "%Y" }} James P. Howard, II</h6>
+        <p class="dm-footer-copyright">
+          Copyright &copy; 2023-{{ 'now' | date: "%Y" }}
+          <span class="dm-footer-name">James P. Howard, II</span>
+        </p>
       </div>
     </div>
   </div>
