@@ -1,0 +1,27 @@
+# The Manor of the Dungeon in Kent
+
+> A documentary public-history project about the Manor of the Dungeon in Canterbury: a real medieval manor, an unresolved modern succession, and an open archive.
+
+Website: https://dungeonmanor.uk/
+Researcher and site operator: James P. Howard, II
+
+## Main content
+
+- [About the Manor](https://dungeonmanor.uk/about/): scope, purpose, and explanation of the modern claim.
+- [History](https://dungeonmanor.uk/history/): the site from the pre-Roman mounds through the Victorian era.
+- [Lords of the Manor](https://dungeonmanor.uk/lords-of-the-manor/): documented and presumptive succession, stopping where the evidence stops.
+- [State of the Claim](https://dungeonmanor.uk/state-of-the-claim/): evidence-based assessment of the modern claim to the historical lordship.
+- [Archives](https://dungeonmanor.uk/archives/): primary sources, antiquarian works, maps, legal documents, and the 2024 transaction instruments.
+- [Research](https://dungeonmanor.uk/research/): active research questions and notes.
+- [Bibliography](https://dungeonmanor.uk/bibliography/): scholarly and documentary sources.
+- [Map Room](https://dungeonmanor.uk/map-room/): comparative historical maps of Canterbury and the Dungeon mound.
+- [Dane John Gardens](https://dungeonmanor.uk/gardens/): the later landscape history of the mound and former estate.
+
+## Accuracy boundary
+
+The historical manor and lordship are real. The documentary chain from the last plausible historical holders to the seller of the 2024 instruments has not been established. James P. Howard, II is therefore described as holder of those instruments and claimant to the historical lordship, not as the proven endpoint of an unbroken manorial succession.
+
+## Related
+
+- [James Howard](https://jameshoward.us/): researcher profile and related historical work.
+- [House of Basu-Howard](https://basuhoward.org/): family and household umbrella site.
