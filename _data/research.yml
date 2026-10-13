@@ -1,19 +1,21 @@
-last_reviewed: 2026-09-02
+last_reviewed: 2026-10-12
 
 principles:
   - State what the evidence establishes, not what we wish it established.
   - Distinguish primary records, later historical accounts, inference, and modern claimant-issued documents.
   - Record gaps and unsuccessful lines of inquiry because negative results prevent duplicated work.
   - Revise conclusions when better evidence appears and preserve a dated account of what changed.
+  - Do not substitute family succession, farm ownership, or church patronage for evidence of the lordship's descent.
 
 questions:
   - id: post-1944-succession
-    title: Where did the genuine lordship pass after 1944?
+    title: How far can the later descent be documented, before and after 1944?
     status: active
     status_label: Active investigation
     known: >-
-      Major Chandos Brydges Lee-Warner died in 1944 and is the last plausible
-      historical holder presently identified. No later disposition has been located.
+      Major Chandos Brydges Lee-Warner died in 1944, but his proposed tenure
+      as lord has not been proved. Earlier nineteenth-century links also
+      require documentary evidence; 1944 is an investigative waypoint.
     needed: >-
       Probate and residuary-estate records, conveyances involving Dane John Farm,
       family papers, and any deed by which the incorporeal lordship was separately assigned.
@@ -23,10 +25,12 @@ questions:
     status: active
     status_label: Active investigation
     known: >-
-      Published accounts, the advowson, and catalogued Donjon Farm leases point
-      to the Reverend Daniel Henry Lee Warner and his descendants.
+      Published accounts, church patronage, and catalogued Donjon Farm leases
+      provide leads toward the Tyberton branch. The leases have not been
+      inspected for this project and do not yet establish transfers of the lordship.
     needed: >-
       Inspection and transcription of the relevant Tyberton Court muniments,
+      including parties, parcels, terms, and any express lordship wording;
       wills, assents, marriage settlements, and property schedules.
 
   - id: medieval-gap
@@ -41,15 +45,17 @@ questions:
       inquisitions post mortem, feet of fines, and surviving court rolls.
 
   - id: manor-boundaries
-    title: What were the manor's boundaries at different dates?
+    title: What were the manor's boundaries and surviving buildings at different dates?
     status: open
     status_label: Reconstruction
     known: >-
-      The mansion stood outside the city wall, the mound lay inside it, and land
-      associated with the estate was later known as Dane John or Donjon Farm.
+      The mansion stood outside the city wall and the mound inside it. The
+      Dane John Works listing supplies a surviving-building reference, but
+      matching it to earlier estate plans remains a separate research task.
     needed: >-
       Georeferenced historic maps, terriers, rentals, rate books, valuation plans,
-      and deeds containing parcels or abuttals.
+      railway plans, and deeds containing parcels or abuttals. Distinguish
+      the mansion's demolition from later clearance of other buildings.
 
   - id: possessory-theory
     title: What legal effect, if any, does the 2024 possessory-title theory have?
@@ -97,7 +103,7 @@ source_register:
     date: 1695 and 1814
     status: lead
     status_label: Catalogue lead
-    contribution: Catalogued leases of Donjon Farm that may document the estate's route through the Tyberton branch.
+    contribution: Catalogued Donjon Farm leases pending inspection of parties, property, and terms; not yet proof of lordship succession.
 
   - source: Lee Warner papers, Norfolk Record Office, Leew Box 4 No. 1
     date: 1580–1721
@@ -109,10 +115,45 @@ source_register:
     date: 1944
     status: next
     status_label: Next inquiry
-    contribution: May identify the heir or devisee through whom the genuine lordship passed after 1944.
+    contribution: May test whether the lordship was among his assets and, if so, identify its disposition; ownership is not assumed.
 
   - source: Finance Act 1910 valuation records, The National Archives, IR 58
     date: 1909–1915
     status: next
     status_label: Next inquiry
-    contribution: May identify the contemporary owner and parcel history of Dane John Farm.
+    contribution: May identify the contemporary owner and parcel history of Dane John Farm, not necessarily the separate lordship.
+
+  - source: Historic England, Dane John Works, list entry 1273536
+    date: Listed 1978; reviewed October 2026
+    status: reviewed
+    status_label: Published record reviewed
+    contribution: Building identification and architectural description used in the new surviving-estate account; not a site inspection.
+    url: https://historicengland.org.uk/listing/the-list/list-entry/1273536
+
+  - source: Historic England, Dane John Mound, list entry 1003780
+    date: Record enhanced 2014; reviewed October 2026
+    status: reviewed
+    status_label: Published record reviewed
+    contribution: Qualified interpretation of the mound's successive phases, used to correct the earlier unqualified chronology.
+    url: https://historicengland.org.uk/listing/the-list/list-entry/1003780
+
+  - source: Kent Historic Environment Record, TR 15 NW 264
+    date: Reviewed October 2026
+    status: reviewed
+    status_label: Published record reviewed
+    contribution: Distinguishes the principal mound from its companions and identifies the context of the recorded axe find.
+    url: https://heritage.kent.gov.uk/Monument/MKE5063
+
+  - source: Canterbury City Council, Dane John Gardens reopens!
+    date: 1 May 2026
+    status: reviewed
+    status_label: Announcement reviewed
+    contribution: Records reopening while distinguishing works that remained unfinished or not operational on that date.
+    url: https://news.canterbury.gov.uk/news/dane-john-gardens-reopens/
+
+  - source: Blakedown Landscapes, Canterbury story gardens project
+    date: Reviewed October 2026
+    status: reviewed
+    status_label: Programme reviewed
+    contribution: Contractor's account of the intended restoration scope, not an independent completion certificate.
+    url: https://www.blakedown.co.uk/news/2025/blakedown-appointed-for-canterburys-landmark-story-gardens-project

@@ -8,22 +8,23 @@ featured_image: /assets/img/history-banner.webp
 The lordship of a manor in English law was a form of property, and
 like any form of property it passed from hand to hand through inheritance,
 sale, forfeiture, and the accumulated accidents of time. What follows
-is the most complete account currently assemblable of those who held, or
-probably succeeded to, the lordship of the Manor of the Dungeon in Canterbury.
-It is not a continuous pedigree to the present. Where the record is clear,
-it is stated as such; where succession is inferred, that is marked; and where
-the chain breaks, it stops.
+is an account of the historical holders and later candidates identified
+for the Manor of the Dungeon in Canterbury. It is not a continuous
+pedigree to the present. A family's history, the ownership of a farm,
+and the descent of the particular lordship must be distinguished.
 
 The manor takes its full formal name from its location in the parish of
 St. Mary Bredin in the city of Canterbury, in the County of Kent. The
-mound from which it takes its common name predates the documented lordship
-by what may be a thousand years or more.
+mound from which it takes its common name has a much earlier and
+separate [archaeological history]({{ '/history/celtic-origins' | relative_url }}).
 
 <div class="evidence-notice evidence-notice-open">
   <p class="eyebrow">Essential distinction</p>
-  <p>The historical manor is well documented. The modern succession is not.
-  The latest plausible heir identified in the present research died in 1944;
-  no instrument connecting his estate to the 2024 seller has been found.</p>
+  <p>The historical manor is well documented. Its later succession is not.
+  The nineteenth-century links require proof, as does the proposed tenure
+  of the later Lee-Warner candidates. The death of one candidate in 1944
+  is not the end of an otherwise proved chain. No instrument connecting
+  that chain to the 2024 seller has been found.</p>
   <a href="{{ '/state-of-the-claim' | relative_url }}">See the evidence assessment →</a>
 </div>
 
@@ -34,6 +35,8 @@ by what may be a thousand years or more.
 The entries in this section rest on named historical accounts, archival
 records, or transactions identified in those sources. That does not make
 every date equally certain, but it gives each entry an affirmative basis.
+Hasted's narrative in particular remains a published antiquarian account,
+not a substitute for the original instruments at every transition.
 
 ## Ernaldus de Chich
 
@@ -192,72 +195,84 @@ Warner hands.
 
 ---
 
-## The Reverend Daniel Henry Lee Warner
+## Later Family Connections and Presumptive Succession
 
-**Period:** Early nineteenth century to 1858
+The following entries identify the family connections and candidates
+through which the later descent may be investigated. They do not extend
+the documented lordship into a continuous nineteenth- or twentieth-century
+chain. The periods given for the later candidates are proposed research
+ranges, not proved dates of tenure.
 
-With Daniel Henry Lee Warner (1775-1858) the Kent property followed a new
-branch of the family. He married Anne Brydges, co-heiress of Tyberton
-Court in Herefordshire, and the muniments of that house, now in the
-Herefordshire Archive and Records Centre, include leases of "Donjon Farm,
-Canterbury" of 1695 and 1814, deeds of the kind that travel with
-ownership. The 1814 lease falls within his tenure. The family's continued
-hold on the manor's advowson, which Hasted records as running with the
-lordship since the reign of Henry VIII, is confirmed by the presentation
-of his son, the Reverend George Brydges Lee Warner (1812-1880), as vicar
-of St. Mary Bredin; the church's spire was raised in 1881 as that
-vicar's memorial.
+### The Reverend Daniel Henry Lee Warner
+
+**Period:** Early nineteenth century to 1858 (connection under investigation)
+
+Daniel Henry Lee Warner (1775-1858) married Anne Brydges, co-heiress of
+Tyberton Court in Herefordshire. The project's research ledger identifies
+leases of Donjon Farm, Canterbury, dated 1695 and 1814, among the Tyberton
+Court muniments at the Herefordshire Archive and Records Centre,
+**A81/II/237–8**. These remain catalogue leads: their parties, parcels,
+and operative wording need inspection. The 1814 date does not by itself
+establish Daniel Henry's tenure as lord.
+
+His son, the Reverend George Brydges Lee Warner (1812-1880), served as
+vicar of St. Mary Bredin, and the church's spire was raised in 1881 as
+his memorial. This is a relevant family connection with Canterbury.
+It is not, without the presentation and property records, proof of the
+lordship's descent. Hasted's association of patronage with the manor's
+owners cannot automatically be extended to every later generation.
 
 ---
 
-## Supported Later Succession
-
-The following two entries are probable successions within the Lee-Warner
-family. They are not supported by a located conveyance or devise of the
-lordship itself and are therefore marked **presumptive**.
-
 ### Robert Henry Lee-Warner
 
-**Period:** 1858–1895 (presumptive)
+**Period:** 1858–1895 (presumptive; not a proved tenure)
 
 Of Tyberton Court, recorded there by the censuses of 1881 and 1891 and
 listed among the landowners of England in Bateman's survey of 1878. He
-died at Cheltenham on 5 March 1895. No conveyance of the Canterbury
-manor out of the family during his tenure has been found, and he is
-therefore its presumptive lord for this period.
+died at Cheltenham on 5 March 1895. These records make his estate worth
+investigating. No located conveyance or devise establishes his acquisition
+of the Dungeon lordship, and the absence of a discovered sale out of the
+family does not prove that he inherited it.
 
 ---
 
 ### Major Chandos Brydges Lee-Warner
 
-**Period:** 1895–1944 (presumptive)
+**Period:** 1895–1944 (presumptive; not a proved tenure)
 
-The last of the Lee-Warners of Tyberton Court (1863-1944). He married
+The later Lee-Warner of Tyberton Court (1863-1944). He married
 Lady Dorothea Augusta FitzClarence, a descendant of King William IV, in
 1899, and died on 1 October 1944; Tyberton Court was demolished in 1952.
-On the present state of the evidence he is the last person who can
-plausibly be identified as heir to the genuine lordship of the Manor of
-the Dungeon, which, absent any later conveyance, would have passed into
-his estate and to his descendants.
+He remains a candidate for investigation in the proposed family succession,
+not a proved holder of the Dungeon. His probate and residuary-estate
+records may supply evidence, but the inquiry cannot assume that the
+lordship was among his assets.
 
 ---
 
-## The Lordship After 1944: An Open Question {#the-open-succession}
+## The Later Descent: An Open Question {#the-open-succession}
 
-**Period:** 1944 to the present
+**Period:** Nineteenth century to the present
 
-No sale, devise, or other disposition of the lordship after the
-nineteenth century has yet been found. The lordship may remain,
-unrecognized, in the residuary estates of the Lee-Warner heirs; it may
-have passed silently with a sale of Dane John Farm; a family
-recollection, so far unsupported by any document, suggests it may have
-been absorbed by an insurance company around the turn of the twentieth
-century, as happened to many encumbered estates in that era. Research
-in the probate records, the 1910 Inland Revenue valuation, and the
-Kentish newspapers is ongoing. The land inside the walls, meanwhile,
-followed its own path: city property since the sixteenth century,
-made into a public garden from 1790, and administered by the municipal
-authority ever since.
+No complete chain through the later Lee-Warner candidates has been
+assembled for this project. The inquiry therefore begins before 1944,
+not just after the death of Major Lee-Warner. Wills, settlements,
+conveyances, and their property schedules need to establish both the
+property held and the person to whom it passed.
+
+The lordship may have followed a family devise, an estate sale, or a
+separate assignment. A family recollection of an insurance-company
+connection remains unsupported by a located document. The
+[research ledger]({{ '/research' | relative_url }}) records the next
+inquiries. Evidence of farm ownership or church patronage is useful,
+but cannot stand in for a transfer of the lordship itself: HM Land
+Registry's [Practice Guide 22](https://www.gov.uk/government/publications/manors/practice-guide-22-manors)
+distinguishes lordship, manorial land, and manorial rights.
+
+The land inside the walls, meanwhile, followed its own civic history,
+becoming the public gardens. The survival or ownership of a building
+outside the walls likewise does not settle the lordship's descent.
 
 ---
 
@@ -281,19 +296,18 @@ available in the [archive]({{ '/archives?period=modern' | relative_url }}).
 
 ## A Note on Sources
 
-The documented history above draws primarily on Edward Hasted's _History and
+The historical account draws primarily on Edward Hasted's _History and
 Topographical Survey of the County of Kent_ (Volume 11, 1800) and his
 _History of the Ancient and Metropolitical City of Canterbury_ (1801),
-both available through British History Online and the Internet Archive,
-for the medieval through eighteenth-century periods. The nineteenth- and
-twentieth-century entries rest on W. H. Ireland's _England's Topographer_
+both represented in the archive, for the medieval through eighteenth-century
+periods. The later discussion uses W. H. Ireland's _England's Topographer_
 (1828-1830), the History of Parliament, Bateman's _Great Landowners of
-Great Britain and Ireland_ (1878), census returns, and archival
-catalogues, principally the leases of Donjon Farm among the Tyberton
-Court muniments at the Herefordshire Archive and Records Centre
-(A81/II/237-8) and the Lee Warner papers at the Norfolk Record Office.
-Entries marked presumptive rest on family succession and the absence of any
-located alienation rather than on a positive instrument of transfer, and are
-stated as such.
-Anyone with documentary evidence bearing on the manor's descent,
-particularly after 1858, is invited to make contact through this site.
+Great Britain and Ireland_ (1878), census returns, and archival catalogue
+leads. The catalogue leads include the Donjon Farm leases among the Tyberton
+Court muniments and the Lee Warner papers at the Norfolk Record Office;
+they are not represented as inspected instruments of transfer.
+
+The [October 2026 research note]({{ '/research/notes/2026-10-12-place-and-evidence' | relative_url }})
+records the clarification of the later entries. Anyone with documentary
+evidence bearing on the manor's descent, particularly in the nineteenth
+century and after, is invited to make contact through this site.

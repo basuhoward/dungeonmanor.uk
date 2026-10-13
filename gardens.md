@@ -9,12 +9,14 @@ Dane John Gardens occupies a site of just over two hectares within
 Canterbury's historic city walls, centered on the ancient mound that
 has given the area its name through various pronunciations for at least
 eight centuries. The gardens are among Canterbury's most historically
-layered public spaces: the mound itself dates to the Romano-British
-period with possible earlier associations; the winding path to its
-summit was laid out in 1790; the obelisk at the top was erected by
-public subscription in 1803; and the formal plantings, ornamental
-features, and bandstand were added through the nineteenth and early
-twentieth centuries.
+layered public spaces. The mound is a Norman earthwork thought to incorporate
+a Roman burial mound, subsequently enlarged and landscaped; the winding path
+to its summit was laid out in 1790; the monument at the top was erected by
+public subscription in 1803; and the formal plantings, ornamental features,
+and bandstand were added through the nineteenth and early twentieth centuries.
+Historic England records the [mound](https://historicengland.org.uk/listing/the-list/list-entry/1003780)
+and the [gardens](https://historicengland.org.uk/listing/the-list/list-entry/1001360)
+separately.
 
 ## A History in Layers
 
@@ -38,15 +40,46 @@ of Masters' Exotic Nursery, carried out further landscaping work, supplying
 trees and shrubs at his own cost. The formal plantings and the mature
 lime avenue largely reflect this later phase of work.
 
-Before any of this, the mound had its own long history. Historic England
-describes the Dane John mound as surviving from a group of Romano-British
-burial mounds of the first or second century AD, with Heritage Gateway
-noting the possible Bronze Age associations suggested by a socketed axe
-recovered from one of the companion mounds. The Normans briefly adapted
-the mound for use as a motte-and-bailey castle following the Conquest of
-1066, but this use appears to have ended by the early twelfth century.
-Through the medieval period the land around the mound formed part of the
-Manor of the Dungeon, held by the Chiche and Hales families.
+Before any of this, the mound had its own history. The evidence for its
+origins needs to distinguish the surviving principal mound from its lost
+companions. In particular, the Bronze Age axe recorded in the
+[Kent Historic Environment Record](https://heritage.kent.gov.uk/Monument/MKE5063)
+came from companion mound B, not the surviving mound A. The
+[account of the ancient mounds]({{ '/history/celtic-origins' | relative_url }})
+explains why that find does not establish a prehistoric date for the
+whole surviving earthwork.
+
+The public gardens and the manorial estate must also be distinguished.
+The field inside the walls followed a civic history, while the mansion
+and farm outside them followed an estate history. A surviving estate
+building, [Dane John Works]({{ '/history/surviving-estate' | relative_url }}),
+provides a separate way into that history; it is not a building within
+the public gardens.
+
+## The 2025–2026 Restoration {#restoration-2025-2026}
+
+The gardens' history did not stop when the nineteenth-century planting
+matured. Canterbury City Council's
+[announcement of the 2025 programme](https://news.canterbury.gov.uk/news/ambitious-dane-john-project-means-changes-to-events-in-2025/)
+set out improvements to paths, lighting, planting, and the power supply for
+events. Blakedown's
+[description of the works](https://www.blakedown.co.uk/news/2025/blakedown-appointed-for-canterburys-landmark-story-gardens-project)
+also included restoration of benches, lamp columns, and railings,
+reinstatement of historical planting, and improvements to the terracing
+around the Second World War shelters. These were parts of the stated
+programme, not a checklist of independently verified completed work.
+
+On 1 May 2026 the council
+[announced that the gardens had fully reopened](https://news.canterbury.gov.uk/news/dane-john-gardens-reopens/).
+Its account carefully separated public access from completion. The main
+avenue was finished, but some other resurfacing, lighting work, the
+fountain's electrical supply, and the new café remained unfinished or
+not yet operational. That announcement establishes the reopening date;
+it does not establish when every remaining task was completed.
+
+The restoration belongs alongside earlier changes to the gardens, rather
+than outside their history. The [October 2026 research note]({{ '/research/notes/2026-10-12-place-and-evidence' | relative_url }})
+records the sources added to this account and the limits of the update.
 
 ## What to See and Do
 
@@ -81,17 +114,17 @@ facilities within the historic setting.
 
 The gardens host concerts, festivals, outdoor cinema, and community
 events throughout the year. For current event schedules and visitor
-information, the Kent County Council's
+information, consult the Kent County Council's
 [Explore Kent website](https://explorekent.org/activities/dane-john-gardens/)
 and Canterbury City Council's
-[newsroom](https://news.canterbury.gov.uk) maintain up-to-date details.
+[newsroom](https://news.canterbury.gov.uk).
 
 ## Plan Your Visit
 
 The gardens are centrally located within Canterbury, close to Canterbury
-East station and easily accessible from the city centre. They are open
-daily and free to enter.
+East station and easily accessible from the city centre. Check the council's
+current notices before travelling for access arrangements and any temporary
+restrictions; the dated restoration account above is not a live service notice.
 
-For the deeper history of the site and the manor of which it was once
-part, the [history section](/history) of this site provides the most
-complete account currently available.
+For the deeper history of the site and the manor, continue to the
+[history section]({{ '/history' | relative_url }}).

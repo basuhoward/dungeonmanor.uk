@@ -1,11 +1,12 @@
-last_reviewed: 2026-09-02
+last_reviewed: 2026-10-12
 
 summary: >-
   The historic Manor of the Dungeon is well documented. The route by which
   its genuine incorporeal lordship might have reached the issuer of the 2024
   instruments is not. Those instruments are preserved here as evidence of
   the transaction that occurred, not as independent proof of the missing
-  chain of title.
+  chain of title. The nineteenth-century links and the later Lee-Warner
+  candidates' proposed tenure also remain to be proved.
 
 statuses:
   - id: established
@@ -52,40 +53,44 @@ propositions:
     limitation: Hasted is an antiquarian source and should be tested against surviving original records where possible.
 
   - id: nineteenth-century
-    proposition: The lordship followed the Lee-Warner family into the nineteenth century.
+    proposition: The Canterbury estate had connections with the nineteenth-century Tyberton branch of the Lee-Warner family.
     status: supported
     finding: >-
-      Hasted ties the advowson of St Mary Bredin to the owners of the manor;
-      later patronage, leases of Donjon Farm, and topographical accounts point
-      toward the Lee-Warner branch at Tyberton Court.
+      Published history, church patronage, and catalogued Donjon Farm leases
+      provide leads toward the Tyberton branch. The leases' presence in its
+      papers does not by itself establish which interests passed to that family.
     evidence:
       - label: Hasted, History of Canterbury
         url: /archives/hasted-history-of-canterbury/
       - label: Ireland, England's Topographer
         url: /archives/irelands-englands-topographer/
-      - label: Bateman, Great Landowners
-        url: /archives/batemans-great-landowners/
-    limitation: No complete nineteenth-century conveyancing chain has yet been assembled.
+      - label: Research ledger — Tyberton catalogue leads
+        url: /research/
+    limitation: The leases require inspection; no complete nineteenth-century chain for the lordship has been assembled.
 
   - id: final-lee-warners
-    proposition: Robert Henry Lee-Warner and Major Chandos Brydges Lee-Warner were the final historical holders before 1944.
-    status: supported
+    proposition: The Dungeon lordship descended to Robert Henry Lee-Warner and Major Chandos Brydges Lee-Warner.
+    status: open
     finding: >-
-      They are the best presently identified candidates in the family line,
-      and no alienation during their lifetimes has been located in the sources reviewed.
+      They remain candidates in a proposed family succession. The family and
+      landholding records identify people to investigate, but no located
+      conveyance or devise establishes their acquisition of this lordship.
     evidence:
       - label: The Lee Warners and the Lost Lordship
         url: /history/lee-warner-era/
       - label: Bateman, Great Landowners
         url: /archives/batemans-great-landowners/
-    limitation: This is a presumptive succession based partly on the absence of a discovered alienation.
+      - label: October 2026 clarification
+        url: /research/notes/2026-10-12-place-and-evidence
+    limitation: Absence of a discovered alienation does not prove inheritance; 1944 is not the endpoint of a proved chain.
 
   - id: post-1944
-    proposition: The destination of the genuine lordship after 1944 is known.
+    proposition: The lordship's later descent, including its destination after 1944, is known.
     status: open
     finding: >-
-      No sale, devise, assent, or other disposition after the Lee-Warner period
-      has yet been located. Several possible routes remain under investigation.
+      No complete later chain has been located for this project. Both the
+      proposed nineteenth-century links and any disposition after 1944 require
+      evidence identifying the lordship, not merely the farm or its owners.
     evidence:
       - label: Lords of the Manor — the open succession
         url: /lords-of-the-manor/#the-open-succession
@@ -109,7 +114,7 @@ propositions:
     limitation: A document proves that its maker made the recorded assertions; it does not necessarily prove those assertions.
 
   - id: vendor-root
-    proposition: Manorial Title Register Limited had a demonstrated chain from the last plausible historical holder.
+    proposition: Manorial Title Register Limited had a demonstrated chain from the historical holders.
     status: unestablished
     finding: >-
       No instrument connecting the Lee-Warner estate, the later owner of the
