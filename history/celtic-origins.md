@@ -9,7 +9,7 @@ featured_image: /assets/img/roman-dungeon.webp
   <a href="{{ '/archives/canterbury-till-domesday' | relative_url }}" class="sidebar-link">
     <div class="card">
       <div class="card-head text-center">
-        <img src="{{ '/assets/img/archives/canterbury-till-domesday.webp' | relative_url }}" width="95%" />
+        <img src="{{ '/assets/img/archives/canterbury-till-domesday.webp' | relative_url }}" width="95%" alt="Cover of Canterbury Till Domesday" />
       </div>
       <div class="card-body text-center">
         <h6>Read Godfrey-Faussett's 1875 study of Canterbury from the
@@ -19,89 +19,72 @@ featured_image: /assets/img/roman-dungeon.webp
   </a>
 </div>
 
-The mound that stands at the center of Dane John Gardens today is
-visually arresting, rising some eighty feet above the surrounding ground
-and commanding views of the Cathedral and the city walls. Visitors tend
-to assume it is medieval, perhaps a Norman fortification, because Norman
-motte-and-bailey castles are the most familiar context in which conspicuous
-earthen mounds appear in English landscapes. The Normans did briefly adapt
-the mound for military use after the Conquest, but they did not build it.
-The best current evidence identifies it as part of a group of prehistoric
-or early historic earthworks considerably older than any Norman presence
-in Canterbury.
+The mound at the center of Dane John Gardens is not the work of a single
+period. Historic England identifies a Norman motte thought to incorporate
+a Roman burial mound, with later enlargement and landscaping. That is a
+more useful starting point than deciding that the whole visible earthwork
+must be either prehistoric, Roman, or medieval. The question is which
+parts of its history the evidence can establish.
 
 ## A Group of Mounds
 
-The Dane John mound did not stand alone. Writing in 1875, T. G.
-Godfrey-Faussett, Fellow of the Society of Antiquaries, described the
-original configuration: a group of conical mounds, at least three
-confirmed and possibly more. The principal mound (which he labeled A)
-stood within the city walls at the position it still occupies. A second
-mound (B), smaller but similar in form, stood immediately outside the
-walls nearby. A third (C), closer in size to the Dane John mound itself
-and approximately equidistant, had stood nearby until its destruction a
-few years before Godfrey-Faussett wrote, when the construction of the
-Chatham and Dover Railway station removed it from the landscape. A fourth
-mound (D) was reported by tradition inside the walls near the cattle
-market, though the evidence for it was thin.
+Writing in 1875, T. G. Godfrey-Faussett described a group of conical mounds,
+at least three of which he considered established. The principal mound,
+labeled A, stood within the city walls. Mound B stood outside them, while
+mound C had been removed during railway construction. He also discussed a
+fourth mound, D, whose existence depended on less secure testimony. His
+[study and plans]({{ '/archives/canterbury-till-domesday' | relative_url }})
+are preserved in the archive as an account of the nineteenth-century
+interpretation, not a modern excavation report.
 
-The three confirmed mounds had clearly belonged together. Their similar
-form, their spatial relationship, and their distribution relative to the
-Roman city walls all suggested a single origin. Crucially, Godfrey-Faussett
-argued that the line of the Roman wall on the southeastern side of the
-city had been drawn specifically to accommodate the position of the Dane
-John mound rather than cutting through it. If the wall deferred to the
-mound, the mound must predate the wall.
+Godfrey-Faussett treated the mounds as a group and argued that the Roman
+wall had been arranged to accommodate the principal mound. The distinction
+between his observation and his conclusion matters. Even evidence that a
+mound preceded a particular wall would not, by itself, show that it preceded
+the Roman occupation or the foundation of the town. A Roman mound could
+also be older than a Roman wall.
 
 ## The Bronze Age Find
 
-When the third mound was removed for the railway construction, antiquaries
-observed what emerged. Among the finds recovered from one of the companion
-mounds was a late Bronze Age socketed axe. Godfrey-Faussett considered
-this confirmatory of what the mounds' situation had already suggested,
-arguing in his 1875 paper that the group was of Celtic or pre-Roman
-British origin, predating the Roman occupation of the site.
+The [Kent Historic Environment Record, TR 15 NW 264](https://heritage.kent.gov.uk/Monument/MKE5063),
+places the late Bronze Age socketed axe in **companion mound B**, not in
+the surviving principal mound A. It also reports that the other finds
+from the group appear to be Roman or later. The axe is evidence relevant
+to possible earlier activity in the area, but it cannot simply be moved
+from one mound to another in the argument.
+
+Nor does the age of an object automatically date an entire earthwork.
+Its position and archaeological context are essential to that inference.
+The possibility of earlier activity therefore remains open without
+establishing that the surviving mound was built before Roman Canterbury.
 
 ## What the Evidence Currently Supports
 
-The classification of the mounds has evolved since Godfrey-Faussett's
-time. Historic England's current descriptions of the site are more cautious.
-The Register of Parks and Gardens describes the Dane John mound as
-"surviving from a group of four Romano-British burial mounds of the 1st
-or 2nd century AD." The Scheduled Monument entry (List Entry 1003780) notes
-that the mound "is thought to overlie a Roman burial mound and was built
-on an already existing mound dating to at least the Roman period." Heritage
-Gateway describes a Roman barrow cemetery with "possible Bronze Age origins"
-suggested by the axe find.
+Historic England's [scheduled-monument entry, 1003780](https://historicengland.org.uk/listing/the-list/list-entry/1003780),
+describes the medieval castle earthwork as overlying a probable Roman
+burial mound. Its separate [registered-gardens entry, 1001360](https://historicengland.org.uk/listing/the-list/list-entry/1001360),
+places the earlier mound within a Romano-British burial group. The Kent
+record retains possible Bronze Age origins as an uncertainty. These are
+qualified interpretations; they do not establish an undisputed pre-Roman
+date for the whole surviving structure.
 
-The practical conclusion is that the mound cannot be precisely dated without
-targeted excavation. The Bronze Age socketed axe points toward earlier
-activity, possibly including prehistoric burial use. The mound's
-incorporation within the Roman city walls, rather than being built over, is
-consistent with the mound being a pre-existing feature. The Romano-British
-barrow classification reflects the current archaeological consensus while
-leaving open the question of earlier phases. Godfrey-Faussett's 1875
-argument for Celtic or pre-Roman origin was not wrong to identify the mound
-as ancient; it simply could not draw on the fuller picture that later
-scholarship and the Heritage Gateway records provide.
+The distinction also prevents later alterations from disappearing out
+of the story. Recognizing a likely Roman core does not mean that the
+Normans merely occupied an unchanged ancient hill, or that the shape
+visitors see is a surviving Roman design.
 
 ## Norman Use and Later History
 
-The Normans briefly placed a timber motte-and-bailey castle on the mound's
-summit after 1066, a use that appears to have ended by the early twelfth
-century when the stone Canterbury Castle was built to the northwest. After
-the abandonment of the motte, the mound returned to the condition it had
-occupied through the Saxon period: a prominent feature of the landscape
-without any particular current military use.
+The scheduled-monument account records the site's use as a Norman castle,
+its later use as a Civil War gun platform, and enlargement during the
+landscaping begun by Alderman James Simmons in 1790. These successive
+phases belong to the history of the mound as much as its burial origins.
+The [gardens page]({{ '/gardens' | relative_url }}) follows the later
+public landscape.
 
-When Alderman James Simmons transformed the Dane John area into a public
-garden in 1790, he raised and reshaped the mound, adding approximately
-four metres to its height and creating the winding terrace walk that
-visitors still climb today. The mound that Simmons landscaped and the
-mound that Godfrey-Faussett argued over are the same feature, successive
-layers of use accumulating over what may be two millennia or more.
-
-What is not in serious dispute is that the mound was present before the
-Norman castle phase and before the Romano-British city of Durovernum was
-built around it. Its earlier origins remain an open question that further
-archaeological work may one day resolve.
+The conclusion is narrower than earlier versions of this page suggested:
+the surviving mound is a composite earthwork, with a probable Roman burial
+core beneath its medieval and later phases. Earlier activity is possible,
+but a prehistoric origin has not been established by the evidence cited
+here. The [October 2026 research note]({{ '/research/notes/2026-10-12-place-and-evidence' | relative_url }})
+records this correction and the distinction between mounds A and B.
