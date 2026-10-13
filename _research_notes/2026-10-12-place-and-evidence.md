@@ -1,6 +1,7 @@
 ---
 title: The surviving estate, the restored gardens, and the limits of the evidence
 date: 2026-10-12
+permalink: /research/notes/2026-10-12-place-and-evidence/
 summary: A restoration account and a surviving-building page have been added, while the mound chronology and later succession have been clarified.
 ---
 
