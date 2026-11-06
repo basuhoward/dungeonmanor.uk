@@ -11,9 +11,10 @@ has given the area its name through various pronunciations for at least
 eight centuries. The gardens are among Canterbury's most historically
 layered public spaces. The mound is a Norman earthwork thought to incorporate
 a Roman burial mound, subsequently enlarged and landscaped; the winding path
-to its summit was laid out in 1790; the monument at the top was erected by
-public subscription in 1803; and the formal plantings, ornamental features,
-and bandstand were added through the nineteenth and early twentieth centuries.
+to its summit was laid out in 1790; the monument at the top is dated to
+1803 in the gardens register, subject to the [source discrepancy below](#monument-date);
+and the formal plantings, ornamental features, and bandstand were added
+through the nineteenth and early twentieth centuries.
 Historic England records the [mound](https://historicengland.org.uk/listing/the-list/list-entry/1003780)
 and the [gardens](https://historicengland.org.uk/listing/the-list/list-entry/1001360)
 separately.
@@ -28,8 +29,8 @@ at his own expense. The project cost £1,500 against an original estimate
 of £450, and included raising and reshaping the mound, establishing a
 winding terrace walk, converting the existing cross-path into a formal
 avenue, and planting throughout. Simmons returned the land to the city
-in 1796 after a dispute over rates, and the 1803 obelisk on the mound's
-summit, erected by public subscription, records his generosity: _This
+in 1796 after a dispute over rates, and the monument on the mound's
+summit records his generosity: _This
 field and hill were improved, and these terraces, walks and plantations,
 made in the year 1790, for the use of the public, at the sole expense
 of James Simmons, Esq., of this city, Alderman and Banker._
@@ -55,6 +56,20 @@ and farm outside them followed an estate history. A surviving estate
 building, [Dane John Works]({{ '/history/surviving-estate' | relative_url }}),
 provides a separate way into that history; it is not a building within
 the public gardens.
+
+## Dating the Summit Monument {#monument-date}
+
+Historic England's [registered-gardens account, 1001360](https://historicengland.org.uk/listing/the-list/list-entry/1001360),
+says the monument was erected by public subscription in **1803**.
+Its [individual pinnacle listing, 1085047](https://historicengland.org.uk/listing/the-list/list-entry/1085047),
+instead gives **1830**. This site retains 1803 provisionally while
+recording the disagreement. The 1790 landscaping date in the inscription
+is not the monument's construction date.
+
+Contemporary civic minutes, accounts, and early descriptions should be
+checked before resolving the difference. The [research ledger]({{ '/research' | relative_url }})
+records that task, and the [November 2026 note]({{ '/research/notes/2026-11-05-archaeology-and-estate' | relative_url }})
+records why the qualification was added.
 
 ## The 2025–2026 Restoration {#restoration-2025-2026}
 
@@ -86,8 +101,8 @@ records the sources added to this account and the limits of the update.
 **The Mound and Monument:** The mound rises above the surrounding gardens
 and commands views of Canterbury's historic cityscape, including the
 Cathedral and the medieval city walls. The winding terrace walk that
-Alderman Simmons established in 1790 leads to the summit, where the 1803
-obelisk records his generosity to the city.
+Alderman Simmons established in 1790 leads to the summit, where the
+monument records his generosity to the city.
 
 **The Bandstand:** The bandstand has hosted concerts and community events
 throughout its history. Historic England records that a bandstand was

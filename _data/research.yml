@@ -1,4 +1,4 @@
-last_reviewed: 2026-10-12
+last_reviewed: 2026-11-05
 
 principles:
   - State what the evidence establishes, not what we wish it established.
@@ -49,13 +49,43 @@ questions:
     status: open
     status_label: Reconstruction
     known: >-
-      The mansion stood outside the city wall and the mound inside it. The
-      Dane John Works listing supplies a surviving-building reference, but
-      matching it to earlier estate plans remains a separate research task.
+      The mansion stood outside the city wall and the mound inside it.
+      Kent HER MKE24851 places the mansion parallel to Dane John Works on
+      its city-facing side. MKE86264 locates a demolished outfarm nearby,
+      but does not establish an estate connection or its boundaries.
     needed: >-
-      Georeferenced historic maps, terriers, rentals, rate books, valuation plans,
-      railway plans, and deeds containing parcels or abuttals. Distinguish
-      the mansion's demolition from later clearance of other buildings.
+      Inspect the CAT Annual Report 1977–78, page 12, and Canterbury City
+      Council/RCHME Historic Buildings Survey 57025. Compare their plans with
+      estate, railway, valuation, and farmstead mapping and deeds containing
+      parcels or abuttals. Distinguish the two demolition episodes and test,
+      rather than assume, the outfarm's connection with the manor.
+
+  - id: archaeological-reports
+    title: What do the original excavation and mound-survey reports establish?
+    status: active
+    status_label: Report inspection
+    known: >-
+      Reviewed HER summaries describe the 1981 excavation at 15a Dane John
+      and a July 1996 measured survey of the mound. Their report references
+      have been verified, but the original reports have not been inspected.
+    needed: >-
+      Obtain and inspect Rady's Dane John Site (1982), SKE30883, and Jarman's
+      The Dane John Mound (catalogued 1999), SKE30886. Check plans, section
+      drawings, dating evidence, and the relationship between the castle,
+      later drainage, garden deposits, and alterations to the mound.
+
+  - id: simmons-monument-date
+    title: Was the summit monument erected in 1803 or 1830?
+    status: open
+    status_label: Conflicting sources
+    known: >-
+      Historic England's gardens entry 1001360 gives 1803; its pinnacle
+      entry 1085047 gives 1830. The site retains 1803 provisionally and
+      makes the conflict explicit rather than treating either record as decisive.
+    needed: >-
+      Contemporary civic minutes and accounts, early descriptions, and
+      inscription evidence. Separate the date of landscaping commemorated
+      on the monument from the date when the monument itself was erected.
 
   - id: possessory-theory
     title: What legal effect, if any, does the 2024 possessory-title theory have?
@@ -131,10 +161,10 @@ source_register:
     url: https://historicengland.org.uk/listing/the-list/list-entry/1273536
 
   - source: Historic England, Dane John Mound, list entry 1003780
-    date: Record enhanced 2014; reviewed October 2026
+    date: Record enhanced 2014; reviewed November 2026
     status: reviewed
     status_label: Published record reviewed
-    contribution: Qualified interpretation of the mound's successive phases, used to correct the earlier unqualified chronology.
+    contribution: Distinguishes the probable Roman burial core, Roman wall bank, Norman castle and later landscaping; supports the qualified chronology.
     url: https://historicengland.org.uk/listing/the-list/list-entry/1003780
 
   - source: Kent Historic Environment Record, TR 15 NW 264
@@ -157,3 +187,73 @@ source_register:
     status_label: Programme reviewed
     contribution: Contractor's account of the intended restoration scope, not an independent completion certificate.
     url: https://www.blakedown.co.uk/news/2025/blakedown-appointed-for-canterburys-landmark-story-gardens-project
+
+  - source: Kent HER, Medieval Dane John Outer Ditch, MKE93130 / TR 15 NW 2237
+    date: Excavation 1981; record last edited 19 May 2015
+    status: reviewed
+    status_label: Published summary reviewed
+    contribution: Summarizes DJ81 and the ditch's interpretation, later drainage and garden sequence; the original excavation report is a separate lead.
+    url: https://heritage.kent.gov.uk/Monument/MKE93130/
+
+  - source: J. Rady, Dane John Site, CAT Annual Report 1981–82, SKE30883
+    date: Catalogued publication 1982
+    status: lead
+    status_label: Original report not inspected
+    contribution: Source entry places the three-page report with two figures in the CAT Library; inspect the article before detailed reconstruction.
+    url: https://heritage.kent.gov.uk/Source/SKE30883
+
+  - source: Kent HER, Dane John Mound, MKE77155 / TR 15 NW 1517
+    date: Survey July 1996; record last edited 15 April 2024
+    status: reviewed
+    status_label: Published summary reviewed
+    contribution: Summarizes the measured profiles, interpretation of later enlargement and historical erosion mapping; not a current condition survey.
+    url: https://heritage.kent.gov.uk/Monument/MKE77155
+
+  - source: C. Jarman, The Dane John Mound, Canterbury's Archaeology 1996–1997, SKE30886
+    date: Catalogued publication 1999
+    status: lead
+    status_label: Original report not inspected
+    contribution: Source record locates the article and illustrations in the CAT Library; its publication date is distinct from the survey date.
+    url: https://heritage.kent.gov.uk/Source/SKE30886
+
+  - source: Kent HER, Dane John Works, MKE24851 / TR 15 NW 1163
+    date: Record last edited 31 January 2022
+    status: reviewed
+    status_label: Published summary reviewed
+    contribution: Records the mansion's relative position and the CAT building examination, with references to original architectural records.
+    url: https://heritage.kent.gov.uk/Monument/MKE24851
+
+  - source: CAT Annual Report 1977–78, page 12, SKE38655
+    date: Report coverage 1977–78; source card last edited 20 March 2018
+    status: lead
+    status_label: Original report not inspected
+    contribution: Verified HER source-card reference for the building inquiry; not an inspected copy of the report.
+    url: https://heritage.kent.gov.uk/Source/SKE38655
+
+  - source: Canterbury City Council/RCHME Historic Buildings Survey 57025, SKE43803
+    date: Survey date not supplied; source card last edited 20 March 2018
+    status: lead
+    status_label: Original survey not inspected
+    contribution: Verified HER reference to investigate the former mansion's position; inspect the underlying record before mapping its footprint.
+    url: https://heritage.kent.gov.uk/Source/SKE43803
+
+  - source: Kent HER, Outfarm southwest of Dane John Works, MKE86264
+    date: Record last edited 19 December 2012
+    status: reviewed
+    status_label: Published record reviewed
+    contribution: Locates a demolished farmstead at TR 1460 5706 without establishing its ownership or a connection with the manor.
+    url: https://heritage.kent.gov.uk/Monument/MKE86264
+
+  - source: Historic England, Dane John Gardens, list entry 1001360
+    date: Reviewed November 2026
+    status: reviewed
+    status_label: Published record reviewed
+    contribution: Gives 1803 for the summit monument, in conflict with the individual pinnacle listing; retained provisionally, not treated as decisive.
+    url: https://historicengland.org.uk/listing/the-list/list-entry/1001360
+
+  - source: Historic England, Dane John Mound Pinnacle, list entry 1085047
+    date: Reviewed November 2026
+    status: reviewed
+    status_label: Published record reviewed
+    contribution: Gives 1830 for the monument; the discrepancy is recorded for investigation against contemporary evidence.
+    url: https://historicengland.org.uk/listing/the-list/list-entry/1085047
