@@ -45,7 +45,7 @@ Canterbury Archaeological Trust excavated the former council-office site
 at **15a Dane John** in summer **1981**, under site code **DJ81**.
 [Kent HER record MKE93130](https://heritage.kent.gov.uk/Monument/MKE93130/)
 describes a substantial ditch interpreted as part of the Norman bailey.
-Historic England independently summarizes its dimensions as about
+Historic England also reports dimensions of about
 **17 metres wide and 3 metres deep**. These are measurements reported
 in the published records, not measurements made for this project.
 
