@@ -16,32 +16,65 @@ at what they had acquired and immediately began to assess it.
 What they found at Canterbury was a city of real ecclesiastical and
 commercial importance sitting on a landscape that had been organized
 and reorganized by its inhabitants for the better part of a thousand
-years. The ancient mound south of the city walls, prominent on the
-skyline, was exactly the kind of feature that Norman military thinking
-was trained to recognize: high ground, commanding views, a natural
-foundation for a fortification.
+years. The mound stood within the southern part of the walled city,
+beside its defences. That position helps explain its later military
+use; it does not establish the purpose for which the earlier mound
+was constructed.
 
 ## The Motte-and-Bailey Castle
 
-Shortly after the Conquest, the Normans placed a timber motte-and-bailey
-castle on the Dane John mound. The form was their standard rapid-response
-fortification: a wooden tower on an earthen mound (the motte), connected
-to an enclosed courtyard (the bailey) where soldiers could be quartered
-and horses stabled. The Dane John mound, already a substantial elevation
-above the surrounding ground, provided an immediate and serviceable
-motte without the labor of building one from scratch.
+Historic England's [scheduled-monument account](https://historicengland.org.uk/listing/the-list/list-entry/1003780)
+identifies Dane John as a Norman motte-and-bailey castle incorporating
+probable remains of a Roman burial mound. In this form of fortification,
+the motte carried a tower, while the adjoining bailey provided an enclosed
+space for other buildings. Adapting an earlier mound did not necessarily
+mean leaving it unchanged.
 
-This use of the mound was brief. Within a generation of the Conquest,
-the Normans had decided that a timber castle improvised from a
-prehistoric earthwork was not an adequate long-term fortification for
-a city of Canterbury's strategic importance. Work began on a proper
-stone castle to the northwest of the Dane John site, and by around
-1123 Canterbury Castle, the stone keep that still stands in fragmentary
-form on Castle Street, was complete enough to render the Dane John
-motte redundant. The temporary fortification was abandoned, and the
-mound returned to the condition it had occupied through the Saxon
-period: a prominent and puzzling feature of the landscape without any
-particular current use.
+The castle's military life appears to have been short. Historic England
+places its replacement by the stone castle to the west at about 1130.
+The [Kent HER account](https://heritage.kent.gov.uk/Monument/MKE77155)
+suggests an earlier transition around the turn of the eleventh and
+twelfth centuries. These summaries support a broad sequence, not an
+exact abandonment date. Neither requires an established prehistoric
+origin for the motte, or proves what the mound was used for in the
+preceding Anglo-Saxon period.
+
+## What the 1981 Excavation Found {#excavated-bailey}
+
+Canterbury Archaeological Trust excavated the former council-office site
+at **15a Dane John** in summer **1981**, under site code **DJ81**.
+[Kent HER record MKE93130](https://heritage.kent.gov.uk/Monument/MKE93130/)
+describes a substantial ditch interpreted as part of the Norman bailey.
+Historic England also reports dimensions of about
+**17 metres wide and 3 metres deep**. These are measurements reported
+in the published records, not measurements made for this project.
+
+The HER describes silting and later drainage use, followed by garden
+soils and landscaping deposits associated with the public gardens.
+The excavation therefore connects the castle's history with later uses
+of the ground. It does not date every part of the mound itself.
+
+The original report is catalogued as J. Rady's **“Dane John Site” (1982)**,
+in the *Canterbury Archaeological Trust Annual Report 1981–82*.
+Its [source record, SKE30883](https://heritage.kent.gov.uk/Source/SKE30883),
+locates it in the Trust's library. The HER summary has been reviewed;
+the original report and its figures remain to be inspected before
+attempting a more detailed reconstruction.
+
+## What the 1996 Survey Adds {#mound-survey}
+
+The [HER's mound record, MKE77155](https://heritage.kent.gov.uk/Monument/MKE77155),
+also summarizes a survey made in **July 1996**. Measured profiles
+identified an off-centre upper portion, interpreted as part of Simmons's
+later enlargement. Erosion was mapped to assist conservation. Those
+observations describe the mound in 1996, not its present condition.
+
+The record cites C. Jarman's **“The Dane John Mound”**, catalogued as
+published in **1999** in *Canterbury's Archaeology 1996–1997*.
+The [catalogue entry, SKE30886](https://heritage.kent.gov.uk/Source/SKE30886),
+is a lead to the original article, not a record of our having inspected
+its survey drawings. Survey date, report coverage, and publication date
+are different things.
 
 ## Lanfranc and the Cathedral
 
@@ -109,7 +142,12 @@ Angevin rule that the English manorial system was systematized into the
 form that generated the documentary record through which the manor's
 history can be traced. The Chiche family's documented tenure, with its
 references to aldermanries held in fee and bailiffs of the city, belongs
-to a world of documented landholding that the Normans created. The motte
-on the Dane John mound was abandoned within fifty years of the Conquest;
-the administrative system that the Normans introduced produced records
-of the site for the five centuries that followed.
+to a world of documented landholding that the Normans created. The early
+castle was superseded, while the documentary history of the later manor
+continued. Archaeological evidence for the castle does not by itself
+establish the boundaries or ownership of that manor.
+
+The [November 2026 research note]({{ '/research/notes/2026-11-05-archaeology-and-estate' | relative_url }})
+records these additions and corrections. The original excavation and
+survey reports are listed as uninspected leads in the
+[research ledger]({{ '/research' | relative_url }}).
